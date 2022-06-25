@@ -15,7 +15,7 @@
 |EPS|150136862|Lucas Alexandre|[lucasA27](https://github.com/lucasA27)|150136862@aluno.unb.br|
 |EPS|150141220|Matheus Estanislau|[MatheusEstanislau](https://github.com/MatheusEstanislau)|matheus.estanislau@icloud.com|
 |EPS|170080366|Moacir Mascarenha|[moacirmsj](https://github.com/moacirmsj)|170080366@aluno.unb.br|
-|MDS|-----------|------|--------|--------|
+|MDS|190016647|Lucas Oliveira Meireles|.[Katuner](https://github.com/Katuner)|katunerx@gmail.com|
 |MDS|-----------|------|--------|--------|
 |MDS|-----------|------|--------|--------|
 |MDS|-----------|------|--------|--------|
