@@ -20,6 +20,6 @@
 |MDS|190125152|Andrew Oliveira Cerqueira Lugon|[andrewlugon](https://github.com/andrewlugon)|andrewlugon000@gmail.com|
 |MDS|202017503|Wildemberg Sales da Silva Junior|[wildemberg-sales](https://github.com/wildemberg-sales)|junior_sales2010@hotmail.com|
 |MDS|202046265|Mário Vinícius|[mv23c](https://github.com/mv23c)|mario.mvbc@gmail.com|
-|MDS|-----------|------|--------|--------|
+|MDS|202016560|Igor Silva de Paiva|[IgorSPaiva](https://github.com/IgorSPaiva)|202016560@aluno.unb.br|
 |MDS|-----------|------|--------|--------|
 |MDS|-----------|------|--------|--------|
