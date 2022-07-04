@@ -22,9 +22,9 @@ nav_order: 3
 
 <br>
 
-Tarefas|
---|
-|DOJO Lean Inception |
+|Tarefas|
+|--------|
+|Apresentação Lean Inception |
 |Realizar etapas do Lean Inception |
 |Treinamento MDS|
 |Criar Git Pages |
@@ -33,10 +33,15 @@ Tarefas|
 
 <br>
 
-<!-- ![Quadro de conhecimento sprint 0](assets/quadro-conhecimento-0.png) -->
+![Quadro de conhecimento sprint 0](../../assets/images/quadro_conhecimento-0.png)
 
 <br>
 
+## 4. Histórico da revisão
+
+|**Data**|**Descrição**|**Autor(es)**|
+|--------|-------------|-------------|
+|04/07/2022|Criação do documento| João Pedro Soares e Lucas Alexandre |
 
 <!-- ## 4. Quadro de pareamento
 
