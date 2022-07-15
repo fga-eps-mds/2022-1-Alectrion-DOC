@@ -29,11 +29,10 @@ Para o calculo utilizaremos o custo semanal do aluno e o numero de semanas previ
 - Semanas/projeto = 16
 - N° alunos equipe = 13
 
-### Custo total com recursos humanos
 
-- **Custo semanal equipe**= N° alunos equipe x Custo do aluno/semana => 13 * 497 = **R$ 6.461**
-
-- **Custo projeto** =  Semanas/projeto x  Custo semanal equipe => 16 * 6.461 = **R$ 103.376**
+### Custo total
+- Custo semanal = N° alunos equipe x Custo do aluno/semana => 13 * 497 = R$ 6.461
+- Custo projeto =  Semanas/projeto x  Custo semanal => 16 * 6.461 = R$ 103.376
 
 
 ## Equipamentos
@@ -46,32 +45,54 @@ Neste projeto serão utilizadas ferramentas Open Sources  e plataformas gratuita
 
 ## Capacitação
 
-A capacitação será realizada por meio de treinamentos dados pelos membros de EPS, tendo custo R$ 0, e cursos.
+A capacitação será realizada por meio de treinamentos dados pelos membros de EPS e cursos.
 
 ### Curso(s):
 - Plataforma Udemy, curso "[Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/courses/search/?src=ukw&q=Projeto+Completo+NodeJS%2C+React%2C+React+Native%2C+TypeScript)" custo **R$ 27,90**. 
 
+
+
 ## Infraestrutura
-O custo de infraestrutura incluirá custo com energia eletrica e internet.
+O custo de infraestrutura incluirá custo com energia eletrica e internet. 
 
 ### Internet
+ Para calculo do custo de internet utilizaremos o preço médio de planos de 200mb, que de acordo com [melhorescolha](https://melhorescolha.com/internet-banda-larga/brasilia-df/) é cerca de R$ 99,99.
 
+#### **Valores utilizados**
+- Custo semanal internet = 99,99 ÷ 4 ≈ R$ 25
+- Semanas/projeto = 16
+- N° Alunos equipe = 13
+
+#### **Custo total**
+
+- Custo semanal = Custo semanal internet * N° Alunos equipe = 25 * 13 = R$ 325
+- Custo projeto = Custo semanal * Semanas/projeto = 325 * 16 = R$ 5.200
 
 ### Energia
+De acordo com [neoenergiabrasilia](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf) o custo do KW/h residencial, consumo ativo, de brasilia é cerca de R$ 0.57(dado 2022). Segundo [cultura](https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html), um notebook consome em média cerca de 65W/h(dado 2021). Estes valores serão usados como base do calculo para o custo da eletricidade, levando em considerção o tempo que cada membro irá trabalhar de suas residencias(4 horas por semana).
 
+#### **Valores utilizados**
+- Consumo notebook em KW/h = Potencia * horas ÷ 1000 => 65 * 1 ÷ 1000 = 0.065
+- Horas por semana = 4
+- Tarifa por KW/h = R$ 0.57
+- Semanas/projeto = 16
+- N° Alunos equipe = 13
+
+#### **Custo total**
+- Custo semanal = N° Alunos equipe * Horas semanais * consumo notebook em KW/h * tarifa => 13 * 4 * 0.065 * 0.57 ≈ R$ 1,95
+- Custo projeto = Semanas/Projeto * Custo semanal por aluno  => 16 * 1,95  =  R$ 31,2
 
 ### Total infraestrutura
 
-- Custo semanal = 
-- Custo projeto = 
+- Custo semanal = Custo internet semanal + Custo energia semanal => 325 + 1,95 ≈ R$ 327
+- Custo projeto = Custo internet projeto * Custo energia projeto => 5.200 +  31,2 = R$ 5.231,2
 
 
+## Custo total Projeto
+O custo total do projeto, levando em consideração os pontos descritos a cima, aprensetado abaixo com margem de 10%.
 
-
-## Custo total
-
-- Custo semanal = 
-- Custo projeto = 
+- Custo semanal = custo Recursos humanos/s + custo equipamentos\s + custo ferramentas\s + custo capacitação/s + custo infraestrutura/s => 6.461 + 0 + 0 + 1,7 + 327 = R$ 6.789,7
+- Custo projeto = Custo semanal * Semanas/projeto => 6.789,7 * 16 = R$ 108.635,2(± 10.863,52).
 
 
 ## 4. Histórico da revisão
@@ -79,3 +100,4 @@ O custo de infraestrutura incluirá custo com energia eletrica e internet.
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |13/07/2022|Criação do documento| João Pedro Soares, Lucas Alexandre e Moacir |
+|15/07/2022|Custos gerais| Moacir |
