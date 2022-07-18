@@ -23,7 +23,12 @@ O Documento de Arquitetura de Software, trata-se de uma visão geral de toda a a
 
 ### 2.1 Microserviços
 
+Microserviço consiste em uma abordagem arquitetural a qual uma aplicação é compostas por serviçoes menores, que são impĺementados de forma idependente com acoplamento fraco. Esses serviçoes idependentes podemamlmente se comunicam entre usando API e são organizados por recurso de negócios. 
+
+A arquitetura de microserviço acelera o desenvolvimento e tambem facilita a escalabilidade de uma aplicação. Este padrão arquitetural é utilizado na aplicação.
 ### 2.2 React
+
+React é uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário (UI). O react será utilizado para a criação do frontend, na interação com o usuário.
 
 ### 2.3 Nodejs
 Nodejs é um ambiente de execução Javascript, multiplataforma e de código aberto,
@@ -56,4 +61,4 @@ Sistema gerenciador de banco de dados relacional, de código aberto que será ut
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|17/07/2022|Criação do documento| João Pedro Soares e Matheus de Cristo |
+|17/07/2022|Criação do documento| João Pedro Soares e Matheus Estanislau |
