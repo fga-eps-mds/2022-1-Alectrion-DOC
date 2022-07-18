@@ -28,7 +28,19 @@ O propósito deste documento é mostrar ao leitor um panorama geral sobre a vis�
 
 ### Visão Geral: (Para depois)
 
-## Posicionando
+## Posicionando <!--Will-->
+
+### Oportunidade de Negócio:
+
+O SGPTI tem como foco disponibilizar aos funcionarios do setor de TI da PC-GO, uma ferramenta capaz de otimizar, organizar e controlar os formulários e documentos relacionados aos equipamentos de tal setor, liberando uma gama de funcionalidades e ultilitários para cumprir com o objetivo.
+
+### Instrução do Problema:
+
+O setor de TI da PC-GO vem sofrendo com alguns problemas relacionados a organização de informação sobre os equipamentos eletrônicos de seu setor, onde era necessário um sistema para criar ordens de serviços para manutenção dos equipamentos, cadastrar e dar baixa, e gerar relatórios tanto sobre os equipamentos, quanto das ordens de serviços.
+
+### Intrução de Posição do Produto: 
+
+Como dito anteriormente, o setor de TI da PC-GO vem sofrendo com algumas dificuldades relacionadas ao controle de seus equipamentos e os documentos relacionados, portanto o SGPTI veio como a solução, possuindo o objetivo de fornecer as funcionalidades adequadas para que os funcionarios da área possam otimizar suas rotinas de trabalhos e resolver seus problemas.
 
 ## Descrições da Parte Interessada e do Usuário
 
@@ -57,7 +69,6 @@ Para assegurar que os responsáveis pelas requisições sejam devidamente identi
 
 3. **Cadastrar equipamentos**:
 
-
 4. **Baixar equipamento**:
 
 5. **Gerar relatórios**:
@@ -79,7 +90,7 @@ Para assegurar que os responsáveis pelas requisições sejam devidamente identi
 ## Requisitos de Documentação
 
 ## Referências
-    https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document
+- https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document
 ## Histórico da revisão
 
 
