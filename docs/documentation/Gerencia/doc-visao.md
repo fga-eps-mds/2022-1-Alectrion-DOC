@@ -93,9 +93,14 @@ Para assegurar que os responsáveis pelas requisições sejam devidamente identi
 
 7. **Realizar movimentação**:
 
+## Restrições<!--Heler-->
 
-
-## Restrições
+* As restrições vão se enquadrar principalmente no que pode afetar a segurança e implementação do software. 
+* Em questão da segurança, dentro da aplicação existirão tipos de usuários, dentro desses, haverão os administradores que são os usuarios com maior controle sobre os cadastros e manutenção externa da aplicação. 
+* Quanto as implementações, a equipe decidiu se restringir a usar o Javascript para fazer uma Aplicação Web, utilizando os frameworks React e NodeJs, para o Front-end e Back-end respectivamente. 
+* O design seguira aos modos da paleta e arquitetura previamente estabelecida pela equipe.
+* Duas reuniões semanais para discutir e/ou organizar o projeto.
+* A todo modo, a aplicação deverá estar disponivel a DSTI até o final do curso de MDS/EPS da Faculdade do Gama/UNB.
 
 ## Faixas de Qualidade
 
@@ -109,8 +114,7 @@ Para assegurar que os responsáveis pelas requisições sejam devidamente identi
 - https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document
 ## Histórico da revisão
 
-
-
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|14/07/2022|Estrutura do documento, introdução,Visão Geral do Produto, Recursos do Produto|Lucas Heler Lopes, Wildemberg Sales, Igor Silva|
+|14/07/2022|Estrutura do documento, Introdução,Visão Geral do Produto, Recursos do Produto|Lucas Heler Lopes, Wildemberg Sales, Igor Silva|
+|17/07/2022|Restrições,Posicionando, Descrições da Parte Interessada e do Usuário|Lucas Heler Lopes, Wildemberg Sales
