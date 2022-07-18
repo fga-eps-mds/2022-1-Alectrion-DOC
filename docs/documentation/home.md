@@ -1,4 +1,9 @@
-# 2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC
+---
+layout: page
+title: Home
+permalink: home/
+nav_order: 1
+---
 
 ## Sobre
 Sistema de Controle e Gerenciamento de Inventário e Ordens de Serviços.
