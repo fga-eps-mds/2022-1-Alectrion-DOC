@@ -59,5 +59,5 @@ Todas as telas do protipo estão disponíveis em:
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|18/07/2022|Criação do documento| João Pedro Soares e Lucas Alexandre |
+|18/07/2022|Criação do documento| Andrew Lugon,João Pedro Soares, Lucas Alexandre e Mário Vinícius|
 
