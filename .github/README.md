@@ -1,20 +1,10 @@
 # 2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC
 
-## Sobre
-Sistema de Controle e Gerenciamento de Inventário e Ordens de Serviços.
+<p> '''Descrição do projeto''' </p>
 
 ## Contribuir
-Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição]() do repositório e seguir nossa [Política de Branches e Commits]().
 
-## Ambientes
-
-- Pages
-[Pages](https://fga-eps-mds.github.io/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/home/)
-
-- Repositórios
-[Documentação](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC)
-
-[Front-End](https://github.com/fga-eps-mds/2022-1-SGPTI-FrontEnd)
+## Ambiente
 
 ## Integrantes
 
