@@ -36,13 +36,29 @@ O SGPTI tem como foco disponibilizar aos funcionarios do setor de TI da PC-GO, u
 
 ### Instrução do Problema:
 
-O setor de TI da PC-GO vem sofrendo com alguns problemas relacionados a organização de informação sobre os equipamentos eletrônicos de seu setor, onde era necessário um sistema para criar ordens de serviços para manutenção dos equipamentos, cadastrar e dar baixa, e gerar relatórios tanto sobre os equipamentos, quanto das ordens de serviços.
+O setor da DSTI da PC-GO vem sofrendo com alguns problemas relacionados a organização de informação sobre os equipamentos eletrônicos de seu setor, onde era necessário um sistema para criar ordens de serviços para manutenção dos equipamentos, cadastrar e dar baixa, e gerar relatórios tanto sobre os equipamentos, quanto das ordens de serviços.
 
 ### Intrução de Posição do Produto: 
 
-Como dito anteriormente, o setor de TI da PC-GO vem sofrendo com algumas dificuldades relacionadas ao controle de seus equipamentos e os documentos relacionados, portanto o SGPTI veio como a solução, possuindo o objetivo de fornecer as funcionalidades adequadas para que os funcionarios da área possam otimizar suas rotinas de trabalhos e resolver seus problemas.
+Como dito anteriormente, o setor da DSTI vem sofrendo com algumas dificuldades relacionadas ao controle de seus equipamentos e os documentos relacionados, portanto o SGPTI veio como a solução, possuindo o objetivo de fornecer as funcionalidades adequadas para que os funcionarios da área possam otimizar suas rotinas de trabalhos e resolver seus problemas.
 
-## Descrições da Parte Interessada e do Usuário
+## Descrições da Parte Interessada e do Usuário <!--WIll-->
+
+### Resumo da Parte Interessada:
+
+|Grupo|Descrição|Responsabilidade|
+|:----:|:----:|:----:|
+|Equipe de Gestão do Projeto| Alunos da disciplina de EPS, FGA-UnB| Gerenciar e direcionar a equipe de desenvolvimento e documentar o projeto|
+|Equipe de Desenvolvimento| Alunos da disciplina de MDS, FGA-UnB| Desenvolver, testar e documentar um produto final que supra as necessidades do cliente|
+|Professor| Professor das disciplinas EPS e MDS FGA-UnB| Avaliar e orientar os trabalhos desenvolvidos pela Equipe de MDS e EPS|
+|DSTI| Servidores que trabalham no setor de TI da PC-GO| Orientar e dar a visão sobre o produto|
+
+### Resumo do Usuário:
+
+|Grupo|Descrição|Responsabilidade|
+|:----:|:----:|:----:|
+|Funcionários da DSTI| Trabalhadores do setor da DSTI| Resolver demandas administrativas ou não|
+|DSTI| Representa o departamento| Administra e tem acesso a todas as demandas em andamento e históricos|
 
 ## Visão Geral do Produto <!--Heler-->
 
