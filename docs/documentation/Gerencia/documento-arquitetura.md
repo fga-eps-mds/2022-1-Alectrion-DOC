@@ -41,6 +41,15 @@ Sistema gerenciador de banco de dados relacional, de código aberto que será ut
 
 ### 2.6 Diagrama de relações
 
+Frontend - Responsável pela interface visual do projeto, com o objetivo de prover as interações com os usuários.
+
+Microserviço Gateway - Será responsável por ser o único ponto de entrada do usuário com os demais serviços do projeto, provendo autenticação e autorização.
+
+Microserviço Usuário - Microserviço responsável pelo gerenciamento de usuários da aplicação 
+
+Microserviço Equipamento -  Microserviço responsável pelo gerenciamento dos equipamentos da aplicação 
+
+
 ![diagrama de relações](../assets/diagrama-de-relacoes.png)
 
 ## 3. Visão Logica
@@ -49,11 +58,13 @@ Sistema gerenciador de banco de dados relacional, de código aberto que será ut
 
 ![diagrama de pacotes](../assets/diagrama-de-pacotes.png)
 
-### 3.2 Diagrama de classes
+<!-- ### 3.2 Diagrama de classes
+![diagrama de classes](../assets/diagrama-de-classes.png) -->
 
-### 3.4 Diagrama de implantação
+### 3.2 Diagrama de implantação
 
 ![diagrama de implantação](../assets/diagrama-de-implantacao.png)
+
 ## 4. Referências Bibliográficas
 
 > [1] Microserviço. Disponivel em: https://www.ibm.com/br-pt/cloud/learn/microservices
