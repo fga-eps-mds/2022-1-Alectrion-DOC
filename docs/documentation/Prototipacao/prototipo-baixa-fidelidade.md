@@ -43,7 +43,8 @@ O protótipo de baixa fidelidade foi desenvolvido na ferramenta figma, apresenta
 
 <br>
 
-Todas as telas do protipo estão disponiveis no [Figma](https://www.figma.com/file/JTsTpcNziovScbWZ1ts1q1/Untitled?node-id=0%3A1)
+Todas as telas do protipo estão disponíveis em: 
+[Figma](https://www.figma.com/file/JTsTpcNziovScbWZ1ts1q1/Untitled?node-id=0%3A1)
 
 ## 3. Referência
 
