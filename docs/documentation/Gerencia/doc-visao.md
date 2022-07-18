@@ -93,7 +93,7 @@ O usuário pode dar baixa no registro de equipamentos, emitindo um relatório pa
 Cria um relatório para a comunicação entre os setores, possuindo campos para o número de série do(s) equipamento(s), data e horário de entrada no sistema, nome do responsável pela emissão do documento e suas especificações de hardware.
 
 6. **Criar ordem de serviço**:
-Utiliza do relatório gerado no cadastro de um equipamento do inventário para criar uma ordem de serviço, para que por esta seja realizada a comunicação entre os usuários do sistema e os demais setores da polícia quanto a sua movimentação.
+Utiliza do relatório gerado no cadastro de um equipamento do inventário para criar uma ordem de serviço, para que por esta seja realizada a comunicação entre os usuários do sistema e os demais setores da polícia quanto a sua movimentação. 
 
 ## Restrições<!--Heler-->
 
