@@ -1,10 +1,16 @@
-# 2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC
+---
+layout: page
+title: Home
+permalink: home/
+nav_order: 1
+---
 
-<p> '''Descrição do projeto''' </p>
+# Sistema de Controle Patrimonial TI
 
-## Contribuir
+<!-- Adicionar descrição. -->
 
-## Ambiente
+## Tecnologias
+<!-- Adicionar descrição. -->
 
 ## Integrantes
 
