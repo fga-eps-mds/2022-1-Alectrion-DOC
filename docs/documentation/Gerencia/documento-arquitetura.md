@@ -15,7 +15,6 @@ Este documento tem como principal objetivo elucidar as principais caracteristica
 
 ### 1.2 Visão geral
 
-
 O Documento de Arquitetura de Software, trata-se de uma visão geral de toda a arquitetura do sistema. Neste documento serão abordadas as seguintes visões da aplicação:
 
 
@@ -52,11 +51,18 @@ Sistema gerenciador de banco de dados relacional, de código aberto que será ut
 
 ### 3.2 Diagrama de classes
 
-### 3.4 Diagrama de comunicação
+### 3.4 Diagrama de implantação
 
+![diagrama de implantação](../assets/diagrama-de-implantacao.png)
 ## 4. Referências Bibliográficas
 
+> [1] Microserviço. Disponivel em: https://www.ibm.com/br-pt/cloud/learn/microservices
 
+> [2] React. Disponivel em: https://pt-br.reactjs.org/
+
+> [3] Node Js. Disponivel em: https://developer.oracle.com/nodejs/what-is-node-js/
+
+> [4] ExpressJs. Disponivel em: https://expressjs.com/pt-br/
 ## 5. Histórico da revisão
 
 |**Data**|**Descrição**|**Autor(es)**|
