@@ -5,12 +5,21 @@ permalink: home/
 nav_order: 1
 ---
 
-# Sistema de Controle Patrimonial TI
+## Sobre
+Sistema de Controle e Gerenciamento de Inventário e Ordens de Serviços.
 
-<!-- Adicionar descrição. -->
+## Contribuir
+Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição]() do repositório e seguir nossa [Política de Branches e Commits]().
 
-## Tecnologias
-<!-- Adicionar descrição. -->
+## Ambientes
+
+- Pages
+[Pages](https://fga-eps-mds.github.io/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/home/)
+
+- Repositórios
+[Documentação](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC)
+
+[Front-End](https://github.com/fga-eps-mds/2022-1-SGPTI-FrontEnd)
 
 ## Integrantes
 
@@ -28,4 +37,4 @@ nav_order: 1
 |MDS|202046265|Mário Vinícius|[mv23c](https://github.com/mv23c)|mario.mvbc@gmail.com|
 |MDS|202016560|Igor Silva de Paiva|[IgorSPaiva](https://github.com/IgorSPaiva)|202016560@aluno.unb.br|
 |MDS|212008197|João Pedro Alves Machado|[pedroblome](https://github.com/pedroblome)|212008197@aluno.unb.br|
-|MDS|-----------|------|--------|--------|
+|MDS|202016800|Lucas Heler Lopes|[Akaeboshi](https://github.com/Akaeboshi) |lucasheler3@gmail.com| 
