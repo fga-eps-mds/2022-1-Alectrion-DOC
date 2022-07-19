@@ -1,6 +1,10 @@
 ---
 name: Bug report
 about: Criar relatório para melhorias
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **Descrever o bug**
