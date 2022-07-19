@@ -15,15 +15,14 @@ Este documento possui a finalidade de informar e relatar ao leitor, como foi org
 
 ### 2.1. Ferramentas
 
-|**Nome**|**Descrição**|
-|--------|-------------|
-|Discord|Ferramenta utilizada para comunicação rápida entre a equipe e pareamentos|
-|Microsoft Teams| Ferramenta utilizada para as reuniões de equipe e com o PO|
-|WhatsApp| Ferramenta para comunicação rápida usada pela equipe|
-|Google Drive| Ferramenta para gerenciar arquivos de planejamneto|
-|Github| Repositório com os documentos e arquivos relacionados ao projeto|
-|ZenHub| Ferramenta para acompanhamento do projeto|
-|<img src='https://www.flaticon.com/br/icone-gratis/logotipo-do-github_25231' width="50" height="50"/>| |
+|**Logo**|**Nome**|**Descrição**|
+|--------|-------------|---------|
+|<img src="../assets/logos/discord.png" width="60px" height="60px">|Discord|Ferramenta utilizada para comunicação rápida entre a equipe e pareamentos|
+|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams| Ferramenta utilizada para as reuniões de equipe e com o PO|
+|<img src="../assets/logos/whatsapp.png" width="60px" height="60px">|WhatsApp| Ferramenta para comunicação rápida usada pela equipe|
+|<img src="../assets/logos/drive.png" width="60px" height="60px">|Google Drive| Ferramenta para gerenciar arquivos de planejamneto|
+|<img src="../assets/logos/github.png" width="60px" height="60px">|Github| Repositório com os documentos e arquivos relacionados ao projeto|
+|<img src="../assets/logos/zenhub.png" width="60px" height="60px">|ZenHub| Ferramenta para acompanhamento do projeto|
 
 ### 2.2. Comunicação Interna
 Comunicação interna é referente a equipe de gerência e envolvidos diretamente com o projeto
@@ -45,14 +44,9 @@ Comunicação interna é referente a equipe de gerência e envolvidos diretament
 |Responsáveis da DSTI| Via Microsoft Teams e Discord|
 |Professor Hilmer| Via Microsoft Teams, Discord e presencialmente sob demanda|
 
-
-## 3. Referências Bibliográficas
-
-
-
 ## 4. Histórico da revisão
 
 <!-- Aqui deve ter o Histórico da revisão com data, descrição e autores-->
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|01/01/2022|Criação do documento| João e Maria|
+|18/07/2022| Criação do plano de comunicação| Wildemberg Sales|
