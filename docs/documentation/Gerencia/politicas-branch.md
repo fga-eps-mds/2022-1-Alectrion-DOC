@@ -6,7 +6,11 @@ nav_order: 5
 ---
 
 # Política de Branches
+## 1. Branchs
 
+<br>
+
+![Diagrama de branchs](../assets/diagrama-de-branchs.png)
 #### *main*
 Master é a branch de produção. Nela se encontra a versão que estará disponível para utilização no mercado.
 
@@ -35,3 +39,9 @@ git checkout -b doc/documento-visao
 ```
 git checkout -b feature/gmail-integration
 ```
+## 2.Histórico da revisão
+
+|**Data**|**Descrição**|**Autor(es)**|
+|--------|-------------|-------------|
+|03/07/2022|Criação do documento| Guilherme Leal, Matheus estanislau |
+|04/07/2022|Adicionado diagrama de branchs| João Pedro Soares, Moacir, Lucas Alexandre |
