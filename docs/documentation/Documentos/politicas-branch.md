@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Política de Branchs
-parent: Gerência
-nav_order: 5
+parent: Documentos
+nav_order: 4
 ---
 
 # Política de Branches
