@@ -75,6 +75,8 @@ Necessidades:
 - Ter períodos de descanso maiores;
 - Precisa usar óculos;
 - Consultas semanais.
+## 4.Referências Bibliográficas
+> [1] Personas. Disponivel em: https://rockcontent.com/br/blog/personas/
 ## Histórico da revisão 
 | Data | Versão | Descrição | Autor(es)|
 |------------|-----------|------|--------|
