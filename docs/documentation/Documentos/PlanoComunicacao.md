@@ -9,7 +9,7 @@ parent: Gerência
 
 <!-- topicos com numerações -->
 ## 1. Introdução
-Este documento possui a finalidade de informar e relatar ao leitor, como foi organizada  e estruturada a comunicação da equipe de desenvolvimento, e das reuniões feitas com o PO da DSTI, e o professor responsável pelo projeto.
+Este documento possui a finalidade de informar e relatar ao leitor, como foi organizada  e estruturada a comunicação da equipe de desenvolvimento, e das reuniões feitas com o product owner da DSTI, e o professor responsável pelo projeto.
 
 ## 2. Comunicação
 
@@ -18,7 +18,7 @@ Este documento possui a finalidade de informar e relatar ao leitor, como foi org
 |**Logo**|**Nome**|**Descrição**|
 |--------|-------------|---------|
 |<img src="../assets/logos/discord.png" width="60px" height="60px">|Discord|Ferramenta utilizada para comunicação rápida entre a equipe e pareamentos|
-|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams| Ferramenta utilizada para as reuniões de equipe e com o PO|
+|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams| Ferramenta utilizada para as reuniões de equipe e com o product owner|
 |<img src="../assets/logos/whatsapp.png" width="60px" height="60px">|WhatsApp| Ferramenta para comunicação rápida usada pela equipe|
 |<img src="../assets/logos/drive.png" width="60px" height="60px">|Google Drive| Ferramenta para gerenciar arquivos de planejamneto|
 |<img src="../assets/logos/github.png" width="60px" height="60px">|Github| Repositório com os documentos e arquivos relacionados ao projeto|
@@ -31,10 +31,10 @@ Comunicação interna é referente a equipe de gerência e envolvidos diretament
 |**Objetivo**|**Envolvidos**|**Frequencia**|**Horário**|**Meio**|
 |------------|--------------|--------------|-----------|--------|
 |Planejamento semanal| EPS e MDS| Segunda-feira| 20:00 ás 21:00| Remoto|
-|Reunião com o PO| EPS/MDS| Quarta-feira| 20:00 ás 21:00| Remoto|
+|Reunião com o product owner| EPS/MDS| Quarta-feira| 20:00 ás 21:00| Remoto|
 |Acompanhamento| EPS e MDS| Quinta-feira| 20:00 ás 21:00| Remoto|
 
-**OBS**: Reuniões com o PO e acompanhamentos, podem ser realizados sob demanda conforme a necessidade.
+**OBS**: Reuniões com o product owner e acompanhamentos, podem ser realizados sob demanda conforme a necessidade.
 
 ### 2.3. Comunicação Externa
 
