@@ -1,6 +1,10 @@
 ---
-name: História de Usuário
-about: Issue de história de Usuários
+name: História de Usuário (US's)
+about: Relacionado a História de Usuário
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **Descrição**

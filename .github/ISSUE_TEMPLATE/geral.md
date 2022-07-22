@@ -1,6 +1,10 @@
 ---
 name: Geral
 about: Issues de tarefas gerais relacionadas ao projeto.
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 Uma issue deve ser criada com a finalidade de descrever:
