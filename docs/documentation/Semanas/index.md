@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Sprints
+title: Semanas
 nav_order: 3
 has_children: true
 ---
 
-# Sprints
+# Semanas
 
 Adicionar descrição.

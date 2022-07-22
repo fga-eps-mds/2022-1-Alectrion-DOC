@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Termo de abertura
-nav_order: 1
-parent: Documentação
+nav_order: 5
+parent: Documentos
 ---
 
 # Termo de abertura
