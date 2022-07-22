@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Documento de arquitetura
-nav_order: 5
-parent: Gerência
+nav_order: 1
+parent: Documentos
 ---
 
 # Documento de Arquitetura

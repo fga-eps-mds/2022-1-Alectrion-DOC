@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sprint 1
-parent: Sprints
-nav_order: 3
+title: Semana 0
+parent: Semanas
+nav_order: 1
 ---
 
-# Sprint 1
+# Semana 0
 
 <br>
 
@@ -13,8 +13,8 @@ nav_order: 3
 
 <br>
 
-- Data Inicio: 27/06/2022
-- Data Termino: 03/07/2022
+- Data Inicio: 20/06/2022
+- Data Termino: 26/06/2022
 
 <br>
 
@@ -23,11 +23,12 @@ nav_order: 3
 <br>
 
 |Tarefas|
-|--------|
-|Apresentação Lean Inception |
-|Realizar etapas do Lean Inception |
-|Treinamento MDS|
-|Criar Git Pages |
+|-----------|
+|Primeira Reunião com clientes|
+|Criação quadro de conhecimento|
+|Planejamento Lean Inception |
+|Criação quadro de horarios |
+|Criação do repositório|
 
 ## 3. Quadro de conhecimento antes do início da sprint
 
