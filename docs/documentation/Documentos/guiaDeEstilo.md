@@ -17,24 +17,25 @@ A principal família tipográfica definida para o projeto é a Montserrat e suas
 ![Fontes](../assets/Fontes.png)
 
 ### 2.2 Cores
-#### Principais
-<!-- Inserir imagem -->
-Original (#1F3541)
-Original (#F6F6F6)
-Original (#D9D9D9)
+#### Primárias
+
+![cores principais](../assets/cores-primarias.png)
 #### Secundárias
-<!-- Inserir imagem -->
-Original (#5289B5)
-Original (#000000)
-Original (#FF0000)
+
+![cores principais](../assets/cores-secundaria.png)
+
 ### 2.3 Ícones
 
+Os incones usados na aplicação são os icones da biblioteca [material-icons](https://mui.com/pt/material-ui/material-icons/)
+
 ## 3. Referências Bibliográficas
+
 > [1] Style Guide. Disponivel em: https://aelaschool.com/designvisual/style-guide-como-desenvolver-o-guia-de-estilo-da-sua-interface/
 
-
+> [2] Material UI. Disponível em: https://mui.com/pt/material-ui
 ## 4. Histórico da revisão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |20/07/2022|Criação do documento| Igor, João Soares e Pedro Siqueira|
+|20/07/2022|Adicionados topicos de cores e icones| João Soares, Lucas Meireles e Lucas Heler|
