@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Guia de Contribuição
-nav_order: 5
-parent: Gerência
+nav_order: 2
+parent: Documentos
 ---
 
 # Como contribuir

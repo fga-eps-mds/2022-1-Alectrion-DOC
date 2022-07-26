@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Plano de Custos
-parent: Gerência
-nav_order: 5
+parent: Documentos
+nav_order: 3
 ---
 
 # Plano de Custo

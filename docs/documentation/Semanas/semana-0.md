@@ -43,8 +43,3 @@ nav_order: 3
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |04/07/2022|Criação do documento| João Pedro Soares e Lucas Alexandre |
-
-<!-- ## 4. Quadro de pareamento
-
-<br>
- -->
