@@ -1,13 +1,7 @@
----
-layout: page
-title: Home
-permalink: home/
-nav_order: 1
----
-
 <div align="center">
     <img src="docs\documentation\Documentos\Identidade Visual\Símbolo_Alectrion.png" height="350px" width="350px"></img>
 </div>
+
 ## Sobre
 
 Alectrion é um sistema de controle e gerenciamento de inventário e ordens de serviços de TI.
@@ -17,9 +11,7 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 
 ## Ambientes
 
-
 - [Pages](https://fga-eps-mds.github.io/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/home/)
-
 
 - [Documentação](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC)
 
@@ -30,8 +22,6 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 - [Back-End: EquipamentAPI](https://github.com/fga-eps-mds/2022-1-SGPTI-EquipamentApi) 
 
 - [Back-End: GateWay](https://github.com/fga-eps-mds/2022-1-SGPTI-Gateway) 
-
-
 
 ## Integrantes
 
