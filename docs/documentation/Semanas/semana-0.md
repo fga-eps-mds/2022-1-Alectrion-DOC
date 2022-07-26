@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sprint 0
-parent: Sprints
+title: Semana 0
+parent: Semanas
 nav_order: 3
 ---
 
-# Sprint 0
+# Semana 0
 
 <br>
 
@@ -18,7 +18,7 @@ nav_order: 3
 
 <br>
 
-## 2. Sprint Backlog
+## 2. Semana Backlog
 
 <br>
 
@@ -30,11 +30,11 @@ nav_order: 3
 |Criação quadro de horarios |
 |Criação do repositório|
 
-## 3. Quadro de conhecimento antes do início da sprint
+## 3. Quadro de conhecimento antes do início da Semana
 
 <br>
 
-![Quadro de conhecimento sprint 0](../../assets/images/quadro_conhecimento-0.png)
+![Quadro de conhecimento Semana 0](../../assets/images/quadro_conhecimento-0.png)
 
 <br>
 
