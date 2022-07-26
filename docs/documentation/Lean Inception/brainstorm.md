@@ -20,6 +20,10 @@ As funcionalidades identificadas foram: cadastrar usuário, cadastrar unidade, c
  Para a execução do brainstorm de funcionalidades, por baseado nas história de usuário, que seria alguns exemplos de como a aplicação seria utilizada uma vez que estivesse pronta. Com as informações de requisitos geradas através das histórias de usuário, foi possível gerar várias funcionalidades que nós acreditamos que seriam úteis para a aplicação como um todo.
 Após ser realizado esse brainstorm mais geral, foi examinado a real necessidade de cada um desse e sua importância em relação ao funcionamento da aplicação como um todo, e após isso, foi feito um filtro das funcionalidades vitais para que a aplicação conseguisse contemplar as necessidades do usuário, com base no tempo disponível para o desenvolvimento dela.
 
+<img src="./assets/imagem_1.jpg">
+
+<img src="./assets/imagem_2.jpg">
+
 ## Histórico de revisões
 
 |**Data**|**Descrição**|**Autor(es)**|
