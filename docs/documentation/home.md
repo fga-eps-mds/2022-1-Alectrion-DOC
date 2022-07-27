@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 <div align="center">
-    <img src="docs\documentation\Documentos\Identidade Visual\Símbolo_Alectrion.png" height="350px" width="350px"></img>
+    <img src="https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/blob/gh-pages/docs/documentation/Documentos/Identidade%20Visual/S%C3%ADmbolo_Alectrion.png?raw=true)" height="350px" width="350px"></img>
 </div>
 ## Sobre
 
