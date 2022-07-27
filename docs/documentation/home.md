@@ -5,21 +5,33 @@ permalink: home/
 nav_order: 1
 ---
 
+<div align="center">
+    <img src="docs\documentation\Documentos\Identidade Visual\Símbolo_Alectrion.png" height="350px" width="350px"></img>
+</div>
 ## Sobre
-Sistema de Controle e Gerenciamento de Inventário e Ordens de Serviços.
+
+Alectrion é um sistema de controle e gerenciamento de inventário e ordens de serviços de TI.
 
 ## Contribuir
-Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição]() do repositório e seguir nossa [Política de Branches e Commits]().
+Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição](docs\documentation\Documentos\guia-contribuicao.md) do repositório e seguir nossa [Política de Branches](docs\documentation\Documentos\politicas-branch.md).
 
 ## Ambientes
 
-- Pages
-[Pages](https://fga-eps-mds.github.io/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/home/)
 
-- Repositórios
-[Documentação](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC)
+- [Pages](https://fga-eps-mds.github.io/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/home/)
 
-[Front-End](https://github.com/fga-eps-mds/2022-1-SGPTI-FrontEnd)
+
+- [Documentação](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC)
+
+- [Front-End](https://github.com/fga-eps-mds/2022-1-SGPTI-FrontEnd)
+
+- [Back-End: UserAPI](https://github.com/fga-eps-mds/2022-1-SGPTI-UserAPI)
+  
+- [Back-End: EquipamentAPI](https://github.com/fga-eps-mds/2022-1-SGPTI-EquipamentApi) 
+
+- [Back-End: GateWay](https://github.com/fga-eps-mds/2022-1-SGPTI-Gateway) 
+
+
 
 ## Integrantes
 
