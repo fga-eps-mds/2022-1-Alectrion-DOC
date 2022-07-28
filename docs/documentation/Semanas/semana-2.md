@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Semana 
+title: Semana 2
 parent: Semanas
 nav_order: 3
 ---
 
-# Semana 
+# Semana 2
 
 <br>
 

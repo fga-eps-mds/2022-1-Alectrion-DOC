@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Semana 
+title: Semana 5
 parent: Semanas
 nav_order: 3
 ---
 
-# Semana 
+# Semana 5
 
 <br>
 
@@ -28,16 +28,17 @@ nav_order: 3
 |treinamento de teste|
 |configurar CI/CD|
 |documentar jornada de usuário|
-|doc brainstorm de funcionalidades| ( Guilherme e Mário)
-|Canvas MVP| (Moacir, Lucas Meireles
+|doc brainstorm de funcionalidades| 
+|Canvas MVP| 
 |Identidade visual| 
 |Protótipo de alta fidelidade|
 |Ajustar documento de arquitetura| 
-|issue #88| 
-|issue #89| 
-|issue #91| 
-|issue #92| 
-|issue #93|
+|issue [#88](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/issues/88)| 
+|issue [#89](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/issues/89)| 
+|issue [#90](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/issues/90)| 
+|issue [#91](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/issues/91)| 
+|issue [#92](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/issues/92)| 
+|issue [#93](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/issues/93)|
 
 ## 3. Quadro de conhecimento antes do início da Semana
 
