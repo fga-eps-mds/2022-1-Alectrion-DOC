@@ -83,7 +83,9 @@ Necessidades:
 ## 4.Referências Bibliográficas
 > [1] Personas. Disponivel em: https://rockcontent.com/br/blog/personas/
 > [2] Lean Inception. Disponivel em: https://caroli.org/lean-inception/
+
 ## Histórico da revisão 
+
 | Data | Versão | Descrição | Autor(es)|
 |------------|-----------|------|--------|
 |18/07/2022|0.1|Criação do documento e dos tópicos 1, 2 e 3|Pedro Siqueira|
