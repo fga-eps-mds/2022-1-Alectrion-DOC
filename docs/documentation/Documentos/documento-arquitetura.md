@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documento de arquitetura
-nav_order: 1
+nav_order: 2
 parent: Documentos
 ---
 
