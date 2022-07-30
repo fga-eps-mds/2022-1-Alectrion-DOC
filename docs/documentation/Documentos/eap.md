@@ -5,7 +5,7 @@ nav_order: 5
 parent: Documentos
 ---
 
-# Estrutura Anaítica do Projeto
+# Estrutura Analítica do Projeto
 
 Trata-se da divisão das entregas do projeto em componentes menores e de fácil gerenciamento.
 
