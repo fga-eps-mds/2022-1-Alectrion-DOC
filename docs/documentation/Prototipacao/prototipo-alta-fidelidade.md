@@ -48,7 +48,7 @@ O protótipo de alta fidelidade foi desenvolvido na ferramenta figma, apresentad
 <br>
 
 Todas as telas do protipo estão disponíveis em: 
-[Figma](https://www.figma.com/file/JTsTpcNziovScbWZ1ts1q1/Untitled?node-id=69%3A2)
+[Figma](https://www.figma.com/file/JTsTpcNziovScbWZ1ts1q1/Alectrion?node-id=69%3A2)
 
 ## 3. Referência
 
