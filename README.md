@@ -11,17 +11,17 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 
 ## Ambientes
 
-- [Pages](https://fga-eps-mds.github.io/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC/home/)
+- [Pages](https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/home/)
 
-- [Documentação](https://github.com/fga-eps-mds/2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC)
+- [Documentação](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC)
 
-- [Front-End](https://github.com/fga-eps-mds/2022-1-SGPTI-FrontEnd)
+- [Front-End](https://github.com/fga-eps-mds/2022-1-Alectrion-FrontEnd)
 
-- [Back-End: UserAPI](https://github.com/fga-eps-mds/2022-1-SGPTI-UserAPI)
+- [Back-End: UserAPI](https://github.com/fga-eps-mds/2022-1-Alectrion-UserAPI)
   
-- [Back-End: EquipamentAPI](https://github.com/fga-eps-mds/2022-1-SGPTI-EquipamentApi) 
+- [Back-End: EquipamentAPI](https://github.com/fga-eps-mds/2022-1-Alectrion-EquipamentApi) 
 
-- [Back-End: GateWay](https://github.com/fga-eps-mds/2022-1-SGPTI-Gateway) 
+- [Back-End: GateWay](https://github.com/fga-eps-mds/2022-1-Alectrion-Gateway) 
 
 
 ## Integrantes
