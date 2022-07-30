@@ -85,6 +85,10 @@ Identificador|Descrição|Categoria|Ação preventiva|Ação Reativa|
 
 Para o burndown de riscos, adotamos uma planilha compartilhada para servir como referência de cálculo de Probabilidade e Impacto para cada semana do projeto.
 [Planilha de Riscos e Gráfico de Burndown](https://docs.google.com/spreadsheets/d/1yLIb87A7_r3_CbI1LmXKVhkj76d6BhBqsvmr8RVesmM/edit?usp=sharing)
+
+<iframe width="800" height="400" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1yLIb87A7_r3_CbI1LmXKVhkj76d6BhBqsvmr8RVesmM/edit#gid=383465514"></iframe>
+
+
 ## 7. Referências Bibliográficas
 >[1]PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 6a. ed. - EUA: Project Management Institute, 2017.
 
