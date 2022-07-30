@@ -2,7 +2,7 @@
 layout: default
 title: Semana 0
 parent: Semanas
-nav_order: 1
+nav_order: 3
 ---
 
 # Semana 0
@@ -18,7 +18,7 @@ nav_order: 1
 
 <br>
 
-## 2. Sprint Backlog
+## 2. Semana Backlog
 
 <br>
 
@@ -30,11 +30,11 @@ nav_order: 1
 |Criação quadro de horarios |
 |Criação do repositório|
 
-## 3. Quadro de conhecimento antes do início da sprint
+## 3. Quadro de conhecimento antes do início da Semana
 
 <br>
 
-![Quadro de conhecimento sprint 0](../../assets/images/quadro_conhecimento-0.png)
+![Quadro de conhecimento Semana 0](../../assets/images/quadro_conhecimento-0.png)
 
 <br>
 
@@ -43,8 +43,3 @@ nav_order: 1
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |04/07/2022|Criação do documento| João Pedro Soares e Lucas Alexandre |
-
-<!-- ## 4. Quadro de pareamento
-
-<br>
- -->
