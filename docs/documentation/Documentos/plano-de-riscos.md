@@ -61,9 +61,9 @@ O processo de identificação de riscos se utilizou de identificação de riscos
 
 ## 5. Documentação dos Riscos e Ações
 
-Identificador|Descrição|Categoria|Ação preventiva|Ação Reativa|
+|Identificador|Descrição|Categoria|Ação preventiva|Ação Reativa|
 |--|--|--|--|--|
-|R01|Dificuldade com as tecnologias utilizadas|Técnico|Treinamentos e pareamentos efetivos|consultar membros com mais experiência|
+|R01| Dificuldade com as tecnologias utilizadas| Técnico| Treinamentos e pareamentos efetivos| consultar membros com mais experiência|
 |R02|Divergência de Horários|Gerência|Planilha de horários disponíveis dos membros|Comunicação assíncrona|
 |R03|Desistência da disciplina|Externo|Baixa|Integração e motivação da equipe|Reorganização das atividades|
 |R04|Alteração de escopo|Gerência|Refinamento constante do escopo|Redefinição do escopo e ajustes nas tarefas|
