@@ -2,7 +2,7 @@
 layout: default
 title: Plano de Custos
 parent: Documentos
-nav_order: 3
+nav_order: 5
 ---
 
 # Plano de Custo

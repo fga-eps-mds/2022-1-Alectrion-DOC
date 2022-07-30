@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Plano de Comunicação 
-nav_order: 1
-parent: Gerência
+nav_order: 7
+parent: Documentos
 ---
 
 # Plano de Comunicação
