@@ -51,7 +51,8 @@ Todas as telas do protipo estão disponíveis em:
 
 <br>
 
-> [1] Protótipo de baixa fidelidade: o que é e como desenvolver em um projeto? Disponível em: https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/
+> [1] Prototipagem de alta fidelidade: o que é, quando, por que e como usar? Disponível em: [https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b)
+>
 > [2] Ferramento Figma. Disponível em: https://www.figma.com/
 
 
