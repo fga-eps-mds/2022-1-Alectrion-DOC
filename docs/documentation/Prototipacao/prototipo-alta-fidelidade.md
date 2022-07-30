@@ -11,12 +11,10 @@ nav_order: 1
 
 ## 1. Introdução
 
-
 <br>
+
 <p>
 O protótipo de alta fidelidade tem como objetivo principal representar fielmente o produto, tanto em relação às funcionalidades quanto à estética e comportamento, apresentar detalhes das operações e suas extensões, como funcionalidades de botões e possíveis retornos de erros, conter as possíveis e diferentes etapas percorridas pelos usuários
-
-
 </p>
 
 <br>
@@ -30,18 +28,23 @@ O protótipo de alta fidelidade foi desenvolvido na ferramenta figma, apresentad
 <br>
 
 ### Tela Login:
-<!---   ![Tela Login](../../assets/images/prototipo-baixa-fidelidade/tela-login.png)
--->
+-   ![Tela Login](../../assets/images/prototipo-alta-fidelidade/tela-login.png)
+
+<br>
+
+### Tela de Tarefas:
+- ![Tela de Tarefas](../../assets/images/prototipo-alta-fidelidade/tela-tarefas.png)
+
 <br>
 
 ### Tela de Ordens de Serviços abertas:
-<!--- ![Tela Ordens de serviços abertas](../../assets/images/prototipo-baixa-fidelidade/tela-ordem-servicos.png)
--->
+- ![Tela Ordens de serviços abertas](../../assets/images/prototipo-alta-fidelidade/tela-ordem-servicos.png)
+
 <br>
 
-### Tela cadastrar equipamento:
-<!--- ![Tela Cadastrar equipamento](../../assets/images/prototipo-baixa-fidelidade/tela-cadastrar-equipamento.png)
--->
+### Tela equipamento:
+- ![Tela  equipamento](../../assets/images/prototipo-alta-fidelidade/tela-equipamento.png)
+
 <br>
 
 Todas as telas do protipo estão disponíveis em: 
@@ -55,10 +58,8 @@ Todas as telas do protipo estão disponíveis em:
 >
 > [2] Ferramento Figma. Disponível em: https://www.figma.com/
 
-
-
 ## 4. Histórico da revisão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|18/07/2022|Criação do documento| João Pedro Soares, Lucas Alexandre, Moacir Mascarenha, Matheus de Cristo|
+|18/07/2022|Criação do documento| João Pedro Soares, Lucas Alexandre, Moacir Mascarenha, Matheus de Cristo, Mário Vinícius, Wildemberg Junior e Lucas Heler|
