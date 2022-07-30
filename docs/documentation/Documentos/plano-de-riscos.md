@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plano de Comunicação 
+title: Plano de Riscos 
 nav_order: 6
 parent: Documentos
 ---
