@@ -65,17 +65,17 @@ O processo de identificação de riscos se utilizou de identificação de riscos
 |--|--|--|--|--|
 |R01| Dificuldade com as tecnologias utilizadas| Técnico| Treinamentos e pareamentos efetivos| consultar membros com mais experiência|
 |R02|Divergência de Horários|Gerência|Planilha de horários disponíveis dos membros|Comunicação assíncrona|
-|R03|Desistência da disciplina|Externo|Baixa|Integração e motivação da equipe|Reorganização das atividades|
+|R03|Desistência da disciplina|Externo|Integração e motivação da equipe|Reorganização das atividades|
 |R04|Alteração de escopo|Gerência|Refinamento constante do escopo|Redefinição do escopo e ajustes nas tarefas|
 |R05|Alteração de tecnologias|Técnico|Melhorias constantes e qualidade no projeto|Treinamentos e pareamentos efetivos|
 |R06|Presença de membros nas reuniões|Externo|Aviso prévio das reuniões e horários efetivos para equipe|Informar membros sobre pauta e definições da reunião|
 |R07|Dependência entre as atividades|Gerência|Planejamento estratégico das atividades|Redefinição das tarefas com intuito de eliminar as dependências|
 |R08|Baixa produtividade da equipe|Externo e Gerência|Integração e motivação da equipe|Melhorar a integração da equipe|
-|R09|Dificuldade de comunicação|Gerência|Muito Baixo|Reuniões constantes e alinhamento com o time|Promover alinhamento da comunicação com os membros afetados|
+|R09|Dificuldade de comunicação|Gerência|Reuniões constantes e alinhamento com o time|Promover alinhamento da comunicação com os membros afetados|
 |R10|Conflito entre entregas da sprint e de tarefas de outras disciplinas|Técnico|Planejamento das entregas|Redefinição do planejamento das tarefas|
 |R11|Alteração no cronograma da disciplina|Externo|nenhuma ação preventiva|Redefinição do planejamento e escopo|
 |R12|Alguns dos membros contrair Covid-19 ou outra doença|Externo|nenhuma ação preventiva|Redefinição do planejamento|
-|R13|Perda de equipamentos da equipe|Externo|Muito Baixo|nenhuma ação preventiva|definição de atividades que permitam ocorrer de forma presencial|
+|R13|Perda de equipamentos da equipe|Externo|nenhuma ação preventiva|definição de atividades que permitam ocorrer de forma presencial|
 |R14|Atraso nas entregas|Gerência|Planejamento constante e escopo bem definido|Redefinição de datas para entrega e novos pareamentos|
 |R15|Pareamentos não efetivos|Gerência|Definição de pareamentos de acordo com conhecimento da equipe|Redefinição de pareamentos|
 |R16|Projeto não atender às expectativas do cliente|Gerência e Externo|Acompanhamento do projeto constante|Redefinição de escopo|
