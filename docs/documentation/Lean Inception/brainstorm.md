@@ -26,7 +26,7 @@ Após ser realizado esse brainstorm mais geral, foi examinado a real necessidade
 
 <img src="./assets/imagem_2.jpg">
 
-# 3. Referências Bibliográficas
+## 3. Referências Bibliográficas
 
 > [1] Lean Inception, visão do produto. Disponivel em: [https://www.caroli.org/atividade-escrevendo-colaborativamente-a-visao-do-produto/](https://www.caroli.org/lean-inception-saiba-como-alinhar-pessoas-e-construir-o-produto-certo/)
 
