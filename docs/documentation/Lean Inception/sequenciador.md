@@ -41,4 +41,4 @@ Para esta atividade o grupo se reuniu e cada um dos membros avaliou o nível de 
 
 | **Data**   | **Descrição**        | **Autor(es)** |
 | ---------- | -------------------- | ------------- |
-| 31/07/2022 | Criação do documento | Matheus Estanislau   |
+| 31/07/2022 | Criação do documento, Correção da imagem do sequenciador | Matheus Estanislau, Igor Silva   |
