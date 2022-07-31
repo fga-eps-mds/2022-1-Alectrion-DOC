@@ -7,4 +7,6 @@ has_children: true
 
 # Lean Inception
 
-Adicionar descrição.
+Mural Lean Inception para o projeto.
+
+<iframe src="./assets/Lean-Inception.pdf" style="width:718px; height:500px;" ></iframe>
