@@ -5,10 +5,9 @@ nav_order: 5
 parent: Documentos
 ---
 
-# Estrutura Anaítica do Projeto
+# Estrutura Analítica do Projeto
 
 Trata-se da divisão das entregas do projeto em componentes menores e de fácil gerenciamento.
-
 
 ## 1. Introdução
 
@@ -28,12 +27,10 @@ resultado da atividade e não a atividade propriamente dita. [1]
 [Imagem Ampliada](2022-1-Sistema-de-Controle-de-Ordem-de-Servico-DOC\docs\documentation\assets\EAP.png)
 ## 3. Referências Bibliográficas
 
-<!-- Aqui deve ter as Referências com suas respectivas numerações -->
 > [1] Referência 1. : Sexta edição. | Newtown Square, PA: Project Management Institute, 2017. | Série: : Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). Disponivel em: https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf
 
 ## 4. Histórico da revisão
 
-<!-- Aqui deve ter o Histórico da revisão com data, descrição e autores-->
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |30/07/2022|Criação do documento| Guilherme Leal|
