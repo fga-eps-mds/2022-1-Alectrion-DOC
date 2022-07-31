@@ -8,10 +8,10 @@ nav_order: 5
 # Canvas MVP
 
 ## 1. Introdução
-O Canvas MVP, segundo Paulo Caroli, é o ápse da Lean Inception. Detalhes sobre o MVP indealizado e suas funcionalidades são apresentados. 
+O Canvas MVP, segundo Paulo Caroli, é o ápice da Lean Inception. Detalhes sobre o MVP idealizado e suas funcionalidades são apresentados. 
 
-## 2. Preenchendo o Cavas MVP
-Após a definição do MVP, utilizamos um quadro para apresentar tudo o que foi idealizado(canvas MVP). Esse quadro é dividido em 7 partes, sendo cada parte responsável por conter informações como: Proposta do MVP, Personas, Jornadas, Funcionalidades, Resultado esperado, Metricas para validar as hipéteses do negócio e Custo e Cronograma.
+## 2. Preenchendo o Canvas MVP
+Após a definição do MVP, utilizamos um quadro para apresentar tudo o que foi idealizado(canvas MVP). Esse quadro é dividido em 7 partes, sendo cada parte responsável por conter informações como: Proposta do MVP, Personas, Jornadas, Funcionalidades, Resultado esperado, Métricas para validar as hipóteses do negócio e Custo e Cronograma.
 
 ### 2.1 Exemplo de quadro:
 
@@ -20,12 +20,12 @@ Após a definição do MVP, utilizamos um quadro para apresentar tudo o que foi 
 
 ## 3 Canvas gerado
 
-Seguindo as recomendações para a construção do canvas, a equipe se reuniu, utilizando os artefatos gerados nas atividades anteriores ao canvas. Com isso, foi possivel gerar o quadro, abaixo:
+Seguindo as recomendações para a construção do canvas, a equipe se reuniu, utilizando os artefatos gerados nas atividades anteriores ao canvas. Com isso, foi possível gerar o quadro, abaixo:
 
 [![canvas MVP](./assets/canvas-mvp.png)](./assets/canvas-mvp.png)
 
 ### 3.1 Proposta MVP
-- Gerencia de equipamentos de informática.
+- Gerência de equipamentos de informática.
 - geração de relatório.
 
 ### 3.2 Personas
@@ -45,16 +45,16 @@ Seguindo as recomendações para a construção do canvas, a equipe se reuniu, u
 - Autenticação de usuários
 - Cadastrar equipamentos
 - Baixar equipamento
-- Gerar relatorios
+- Gerar relatórios
 - Criar ordem de serviço
 
 ### 3.5 Resultado esperado
-- Melhoria no gerencimanento dos patrimonios da DSTI
+- Melhoria no gerenciamento dos patrimônios da DSTI
 
-### 3.6 Metricas
-- Numero de equipamentos cadastrados
-- Numero de ordens de serviços cadastradas
-- Numero de relatórios e termos
+### 3.6 Métricas
+- Número de equipamentos cadastrados
+- Número de ordens de serviços cadastradas
+- Número de relatórios e termos
 
 ### 3.7 Custo e tempo
 - Custo R$ 180.365,9
@@ -70,3 +70,5 @@ Mais detalhes sobre as atividades, que serviram de base para a construção dest
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |31/07/2022|Criação do documento| Moacir Mascarenha|
+
+
