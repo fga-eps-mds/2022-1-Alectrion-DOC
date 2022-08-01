@@ -22,7 +22,7 @@ resultado da atividade e não a atividade propriamente dita.
 
 ## 2. EAP
   
-![EAP](../assets/eap.png)
+[EAP](../assets/eap.png)
 
 ## 3. Referências Bibliográficas
 
