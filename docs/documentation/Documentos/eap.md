@@ -18,7 +18,7 @@ representa o trabalho especificado na atual declaração do escopo do projeto ap
 O trabalho planejado é contido dentro do nível mais baixo de componentes da EAP, que são denominados pacotes
 de trabalho. Um pacote de trabalho pode ser usado para agrupar as atividades onde o trabalho é agendado, estimado,
 monitorado e controlado. No contexto da EAP, o trabalho se refere a produtos de trabalho ou entregas que são o
-resultado da atividade e não a atividade propriamente dita. [1]
+resultado da atividade e não a atividade propriamente dita. 
 
 ## 2. EAP
   
