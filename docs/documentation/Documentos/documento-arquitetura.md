@@ -36,7 +36,7 @@ possui foco em aplicações web e do lado do servidor.
 ### 2.4 Express
 Express é um framework desenvolvido para aplicações web do Nodejs, mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel, que será para a criação de nossas apis.
 
-### 2.5 Postgre
+### 2.5 PostgreSQL
 Sistema gerenciador de banco de dados relacional, de código aberto que será utilizado para gerenciar os dados das aplicações.
 
 ### 2.6 Diagrama de relações
