@@ -23,10 +23,11 @@ resultado da atividade e não a atividade propriamente dita. [1]
 ## 2. EAP
  ### Versão 1.0
   
-![EAP](2022-1-Alectrion-DOC\docs\documentation\assets\EAP.png)
+![EAP](../assets/eap.png)
+
 ## 3. Referências Bibliográficas
 
-> [1] Referência 1. : Sexta edição. | Newtown Square, PA: Project Management Institute, 2017. | Série: : Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). Disponivel em: https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf
+> [1] Referência 1. : Sexta edição.  Newtown Square, PA: Project Management Institute, 2017. Série: : Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). Disponivel em: https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf
 
 ## 4. Histórico da revisão
 
