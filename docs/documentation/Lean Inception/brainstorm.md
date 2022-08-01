@@ -2,7 +2,7 @@
 layout: default
 title: Brainstorm de Funcionalidades
 parent: Lean Inception
-nav_order: 2
+nav_order: 7
 ---
 
 
