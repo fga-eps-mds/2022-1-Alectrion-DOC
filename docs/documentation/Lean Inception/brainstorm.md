@@ -36,6 +36,6 @@ Após ser realizado esse brainstorm mais geral, foi examinado a real necessidade
 |--------|-------------|-------------|
 |17/07/2022| iniciando doc brainstorm | Mário Vinícius |
 |17/07/2022| Planejamento/Execução| João Pedro Alves Machado |
-|39/07/2022| Padronizado arquivo e adicionado referência | Lucas Alexandre |
+|31/07/2022| Padronizado arquivo e adicionado referência | Lucas Alexandre |
 
 

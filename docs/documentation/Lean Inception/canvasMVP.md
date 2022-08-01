@@ -2,7 +2,7 @@
 layout: default
 title: Canvas MVP
 parent: Lean Inception
-nav_order: 5
+nav_order: 10
 ---
 
 # Canvas MVP

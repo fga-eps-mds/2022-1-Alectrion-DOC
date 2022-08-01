@@ -50,4 +50,4 @@ Para está atividade o grupo se reuniu e cada um dos membros expressou sua visã
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|22/01/2022|Criação do documento| João Soares|
+|17/07/2022|Criação do documento| João Soares|
