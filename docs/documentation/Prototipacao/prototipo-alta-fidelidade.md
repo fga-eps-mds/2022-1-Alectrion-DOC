@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Protótipo baixa fidelidade
+title: Protótipo de alta fidelidade
 parent: Prototipação
 nav_order: 1
 ---
 
-# Protótipo baixa fidelidade
+# Protótipo de alta fidelidade
 
 <br>
 
