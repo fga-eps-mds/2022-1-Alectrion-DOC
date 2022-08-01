@@ -49,6 +49,10 @@ Microserviço Usuário - Microserviço responsável pelo gerenciamento de usuár
 
 Microserviço Equipamento -  Microserviço responsável pelo gerenciamento dos equipamentos da aplicação 
 
+Banco de Dados Usuário - Responsável por armazenar os dados dos usuários.
+
+Banco de Dados Equipamentos - Responsável por armazenar os dados dos equipamentos.
+
 
 ![diagrama de relações](../assets/diagrama-de-relacoes.png)
 
@@ -58,13 +62,16 @@ Microserviço Equipamento -  Microserviço responsável pelo gerenciamento dos e
 
 ![diagrama de pacotes](../assets/diagrama-de-pacotes.png)
 
-<!-- ### 3.2 Diagrama de classes
-![diagrama de classes](../assets/diagrama-de-classes.png) -->
-
 ### 3.2 Diagrama de implantação
 
 ![diagrama de implantação](../assets/diagrama-de-implantacao.png)
 
+### 3.3 Microserviço de usuário
+
+![diagrama de classes usuário](../assets/diagrama-classes-usuario.png)
+### 3.3 Microserviço de equipamentos
+
+![diagrama de classes equipamento](../assets/diagrama-classes-equipamentos.png)
 ## 4. Referências Bibliográficas
 
 > [1] Microserviço. Disponivel em: https://www.ibm.com/br-pt/cloud/learn/microservices
@@ -79,3 +86,4 @@ Microserviço Equipamento -  Microserviço responsável pelo gerenciamento dos e
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |17/07/2022|Criação do documento| João Pedro Soares e Matheus Estanislau |
+|31/07/2022|Adição diagrama de classes| João Pedro Soares e Matheus Estanislau|
