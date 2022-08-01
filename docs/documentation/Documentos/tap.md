@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Termo de abertura
-nav_order: 5
+nav_order: 9
 parent: Documentos
 ---
 
@@ -21,10 +21,13 @@ O atual sistema que está em uso pela PCGO e compartilhado entre outros órgãos
 
 A estimativa de custos se trata de um estudo que visa viabilizar operacional e financeiramente a execução de um projeto. Sua aplicação deve ser efetiva e condizente com a realidade de ambas as partes, pois o mesmo dará o norte para a tomada de decisão durante todo o período de realização. 
 
-<!-- ## 5. Partes Interessadas -->
-## 6. Usuários
+## 5. Partes Interessadas
+
+
+### 5.1 Usuários
 Servidores DSTI da Polícia Civil de Goiás.
-## 7. Equipe
+
+### 5.2 Equipe
 
 | Nome | Descrição |
 |----|--------|
@@ -41,7 +44,7 @@ Servidores DSTI da Polícia Civil de Goiás.
 |Matheus Estanislau|Arquiteto|
 |Moacir Mascarenha|DevOps|
 
-# 8. Histórico de versão
+# 6. Histórico de versão
 
 | Data | Versão | Descrição | Autor(es)|
 |------------|-----------|------|--------|
