@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Estrutura Analítica do Projeto
-nav_order: 5
+nav_order: 10
 parent: Documentos
 ---
 
@@ -21,7 +21,6 @@ monitorado e controlado. No contexto da EAP, o trabalho se refere a produtos de 
 resultado da atividade e não a atividade propriamente dita. [1]
 
 ## 2. EAP
- ### Versão 1.0
   
 ![EAP](../assets/eap.png)
 
