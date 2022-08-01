@@ -2,7 +2,7 @@
 layout: default
 title: Personas
 parent: Lean Inception
-nav_order: 2
+nav_order: 5
 ---
 # Personas
 ## 1.Introdução
