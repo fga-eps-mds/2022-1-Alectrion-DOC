@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Semana 5
-parent: Semanas
-nav_order: 3
+title: Sprint 1
+parent: Sprint
+nav_order: 2
 ---
 
-# Semana 5
+# Sprint 1
 
 <br>
 
@@ -53,19 +53,19 @@ nav_order: 3
 
 |Turma|Nome|Planning/Review|Reunião PO|
 |--|--|--|--|
-|EPS|Guilherme Leal|&check;|&check;|
-|EPS|João Pedro Soares|&check;|&check;|
-|EPS|Lucas Alexandre|&check;|&check;|
-|EPS|Matheus Estanislau|&cross;|&check;|
-|EPS|Moacir Mascarenha|&cross;|&check;|
-|MDS|Lucas Oliveira Meireles|&cross;|&check;|
-|MDS|Pedro Siqueira|&cross;|&check;|
-|MDS|Andrew Oliveira Cerqueira Lugon|&cross;|&check;|
-|MDS|Wildemberg Sales da Silva Junior|&check;|&check;|
-|MDS|Mário Vinícius|&check;|&check;|
-|MDS|Igor Silva de Paiva|&check;|&check;|
-|MDS|João Pedro Alves Machado|&check;|&check;|
-|MDS|Lucas Heler Lopes|&check;|&check;|
+|EPS|Guilherme Leal|:white_check_mark:|:white_check_mark:|
+|EPS|João Pedro Soares|:white_check_mark:|:white_check_mark:|
+|EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
+|EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
+|EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
+|MDS|Lucas Oliveira Meireles|:x:|:white_check_mark:|
+|MDS|Pedro Siqueira|:x:|:white_check_mark:|
+|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:white_check_mark:|
+|MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
+|MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
+|MDS|Igor Silva de Paiva|:white_check_mark:|:white_check_mark:|
+|MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
+|MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
 
 ## 5. Histórico da revisão
 
