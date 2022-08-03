@@ -39,7 +39,7 @@ nav_order: 3
 
 <br>
 
-![Quadro de conhecimento Semana ]()
+![Quadro de conhecimento Semana ](./assets/sprint2.png)
 
 <br>
 

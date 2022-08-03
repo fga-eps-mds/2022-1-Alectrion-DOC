@@ -12,7 +12,7 @@ parent: Documentos
 O SGPI se trata de uma aplicação web feita para suprir a necessidade de gestão e consulta dos patrimônios de unidades da PCGO(Polícia Civil de Goiás), em especial para os patrimônios do setor de informática entre as diversas delegacias existentes no estado de Goiás.
 ## 2. Propósito e Objetivos
 
-O propósito do sgpti é oferecer uma aplicação que tenha funcionalidades de gestão de patrimônio das delegacias da polícia civil de Goiás. Com um certo foco no setor de informática, já que este sistema vai conter funcionalidades de histórico de um item, de acordo com as manutenções realizadas nele, alteração de unidade responsável por esse item e outras funcionalidades específicas para o setor de informática da PCGO.
+O propósito do Alectrion é oferecer uma aplicação que tenha funcionalidades de gestão de patrimônio das delegacias da polícia civil de Goiás. Com um certo foco no setor de informática, já que este sistema vai conter funcionalidades de histórico de um item, de acordo com as manutenções realizadas nele, alteração de unidade responsável por esse item e outras funcionalidades específicas para o setor de informática da PCGO.
 
 ## 3. Justificativa
 
