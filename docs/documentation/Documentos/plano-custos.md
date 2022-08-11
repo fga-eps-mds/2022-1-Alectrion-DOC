@@ -100,20 +100,11 @@ De acordo com [neoenergiabrasilia](https://www.neoenergiabrasilia.com.br/residen
 
 
 ## Custo total Projeto
-O custo total do projeto, levando em consideração os pontos descritos a cima, apresentado abaixo com margem de 10%.
+O custo total do projeto, levando em consideração os pontos descritos a cima, apresentado abaixo com margem de 10% e estimado em R$ 108.635,2(± 10.863,52), os cálculos podem ser vistos na planilha:
 
-|Categoria/Semana|S1|S2|S3|S4|S5|S6|S7|S8|S9|S10|S11|S12|S13|S14|S15|S16|Total|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Recursos humanos|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|6.461|103.376|
-|Equipamentos|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|Ferramentas|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|Capacitação|0|0|27,90|0|0|0|0|0|0|0|0|0|0|0|0|0|27,90|
-|Infraestrutura|327|327|327|327|327|327|327|327|327|327|327|327|327|327|327|327|5.231,2|
-|Total|6.788|6.788|6.815,9|6.788|6.788|6.788|6.788|6.788|6.788|6.788|6.788|6.788|6.788|6.788|6.788|6.788|108.635,9|
+[Plano de Custos](https://docs.google.com/spreadsheets/d/1GpBh9sL4wy0KlOb_R2ydSjVwxI1n9eXRnERpj0aF1nw/edit?usp=sharing)
 
-
-O custo total do projeto estimado é R$ 108.635,2(± 10.863,52).
-
+<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1GpBh9sL4wy0KlOb_R2ydSjVwxI1n9eXRnERpj0aF1nw/edit?usp=sharing"></iframe>
 
 ## Referências
 
