@@ -125,3 +125,4 @@ O custo total do projeto, levando em consideração os pontos descritos a cima, 
 |13/07/2022|Criação do documento| João Pedro Soares, Lucas Alexandre e Moacir |
 |15/07/2022|Custos gerais| Moacir |
 |17/07/2022|Adiciona tabela e referência| Moacir |
+|11/08/2022|Adicionado/criada Planilha e iframe | Guilherme Leal|
