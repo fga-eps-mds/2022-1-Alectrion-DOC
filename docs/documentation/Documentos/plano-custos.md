@@ -36,14 +36,14 @@ Para o calculo utilizaremos o custo semanal do aluno e o número de semanas prev
 ### Valores utilizados:
 - Custo/A aluno = R$ 27.850
 - Semana/A = 56 
-- Custo do aluno/semana = Custo/A aluno ÷  semanas/A => 27.850 ÷ 56 ≈ R$ 497
+- Custo do aluno/semana = Custo/A aluno ÷ semanas/A 
 - Semanas/projeto = 16
 - N° alunos equipe = 13
 
 
 ### Custo total
-- Custo/A = N° alunos equipe x Custo do aluno/S => 13 * 497 = R$ 6.461
-- Custo projeto =  Semanas/projeto x  Custo/A => 16 * 6.461 = R$ 103.376
+- Custo/A = N° alunos equipe x Custo do aluno/S 
+- Custo projeto =  Semanas/projeto x  Custo/A 
 
 
 ## Equipamentos
@@ -70,14 +70,14 @@ O custo de infraestrutura incluirá custo com energia elétrica e internet.
  Para calculo do custo de internet utilizaremos o preço médio de planos de 200mb/M, que de acordo com [melhorescolha](https://melhorescolha.com/internet-banda-larga/brasilia-df/) é cerca de R$ 99,99.
 
 #### **Valores utilizados**
-- Custo/S internet = 99,99 ÷ 4 ≈ R$ 25
+- Custo/S internet = 99,99 ÷ 4
 - Semanas/projeto = 16
 - N° Alunos equipe = 13
 
 #### **Custo total**
 
-- Custo/S = Custo/S internet * N° Alunos equipe = 25 * 13 = R$ 325
-- Custo projeto = Custo/S * Semanas/projeto = 325 * 16 = R$ 5.200
+- Custo/S = Custo/S internet * N° Alunos equipe 
+- Custo projeto = Custo/S * Semanas/projeto
 
 ### Energia
 De acordo com [neoenergiabrasilia](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf) o custo do KW/h residencial, consumo ativo, de brasília é cerca de R$ 0.57(dado 2022). Segundo [cultura](https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html), um notebook consome em média cerca de 65W/h(dado 2021). Estes valores serão usados como base do calculo para o custo da eletricidade, levando em consideração o tempo que cada membro irá trabalhar de sua residencia(4 horas por semana).
