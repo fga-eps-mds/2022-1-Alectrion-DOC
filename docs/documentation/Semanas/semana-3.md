@@ -2,7 +2,7 @@
 layout: default
 title: Semana 3
 parent: Semanas
-nav_order: 3
+nav_order: 5
 ---
 
 # Semana 3
@@ -42,19 +42,19 @@ nav_order: 3
 
 |Turma|Nome|Presença|
 |--|--|--|
-|EPS|Guilherme Leal|&check;|
-|EPS|João Pedro Soares|&check;|
-|EPS|Lucas Alexandre|&check;|
-|EPS|Matheus Estanislau|&check;|
-|EPS|Moacir Mascarenha|&check;|
-|MDS|Lucas Oliveira Meireles|&cross;|
-|MDS|Pedro Siqueira|&check;|
-|MDS|Andrew Oliveira Cerqueira Lugon|&cross;|
-|MDS|Wildemberg Sales da Silva Junior|&check;|
-|MDS|Mário Vinícius|&cross;|
-|MDS|Igor Silva de Paiva|&check;|
-|MDS|João Pedro Alves Machado|&check;|
-|MDS|Lucas Heler Lopes|&check;|
+|EPS|Guilherme Leal|:white_check_mark:|
+|EPS|João Pedro Soares|:white_check_mark:|
+|EPS|Lucas Alexandre|:white_check_mark:|
+|EPS|Matheus Estanislau|:white_check_mark:|
+|EPS|Moacir Mascarenha|:white_check_mark:|
+|MDS|Lucas Oliveira Meireles|:x:|
+|MDS|Pedro Siqueira|:white_check_mark:|
+|MDS|Andrew Oliveira Cerqueira Lugon|:x:|
+|MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|
+|MDS|Mário Vinícius|:x:|
+|MDS|Igor Silva de Paiva|:white_check_mark:|
+|MDS|João Pedro Alves Machado|:white_check_mark:|
+|MDS|Lucas Heler Lopes|:white_check_mark:|
 
 ## 5. Histórico da revisão
 

@@ -2,7 +2,7 @@
 layout: default
 title: Semana 0
 parent: Semanas
-nav_order: 3
+nav_order: 2
 ---
 
 # Semana 0

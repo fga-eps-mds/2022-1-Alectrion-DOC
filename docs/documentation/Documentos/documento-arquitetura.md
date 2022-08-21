@@ -11,7 +11,7 @@ parent: Documentos
 
 ### 1.1 Proposta
 
-Este documento tem como principal objetivo elucidar as principais caracteristicas da arquitetura proposta para o software SGPTI, utilizando diferentes visões arquiteturais para destacar diferentes aspectos do sistema. Deste modo facilitando a entendimento da arquiterua para os desenvolvedores; 
+Este documento tem como principal objetivo elucidar as principais caracteristicas da arquitetura proposta para o software Alectrion, utilizando diferentes visões arquiteturais para destacar diferentes aspectos do sistema. Deste modo facilitando a entendimento da arquiterua para os desenvolvedores; 
 
 ### 1.2 Visão geral
 
