@@ -22,10 +22,7 @@ nav_order: 4
 <br>
 
 |Tarefas|
-|--------|
-|configurar CI/CD :x:|
-|Protótipo de alta fidelidade :x:|
-|Documento de arquitetura (refatoração)|   
+|--------| 
 |issue [#90 :x:](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/90)|
 |issue [#92 (testes)](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/92)| 
 |issue [#112 (testes)](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/112)|
