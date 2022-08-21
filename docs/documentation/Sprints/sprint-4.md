@@ -46,17 +46,17 @@ Objetivo da sprint: terminar funcionalidades do usuário, autenticação na apli
 
 |Turma|Nome|Planning/Review|Reunião PO|
 |--|--|--|--|
-|EPS|Guilherme Leal|:white_check_mark:|:white_check_mark:|
+|EPS|Guilherme Leal|:white_check_mark:|:x:|
 |EPS|João Pedro Soares|:white_check_mark:|:white_check_mark:|
 |EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
 |EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
 |EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:white_check_mark:|
+|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:x:|
 |MDS|Igor Silva de Paiva|:white_check_mark:|:white_check_mark:|
 |MDS|João Pedro Alves Machado|:x:|:white_check_mark:|
-|MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
+|MDS|Mário Vinícius|:white_check_mark:|:x:|
 |MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Oliveira Meireles|:x:|:white_check_mark:|
+|MDS|Lucas Oliveira Meireles|:x:|:x:|
 |MDS|Pedro Siqueira|:white_check_mark:|:white_check_mark:|
 |MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
 
