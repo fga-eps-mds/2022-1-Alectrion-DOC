@@ -87,3 +87,4 @@ Banco de Dados Equipamentos - Responsável por armazenar os dados dos equipament
 |--------|-------------|-------------|
 |17/07/2022|Criação do documento| João Pedro Soares e Matheus Estanislau |
 |31/07/2022|Adição diagrama de classes| João Pedro Soares e Matheus Estanislau|
+|21/08/2022|Refatoração no diagrama de classes do equipamento| João Pedro Soares e Matheus Estanislau|
