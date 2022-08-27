@@ -33,7 +33,7 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 |EPS|150136862|Lucas Alexandre|[lucasA27](https://github.com/lucasA27)|150136862@aluno.unb.br|
 |EPS|150141220|Matheus Estanislau|[MatheusEstanislau](https://github.com/MatheusEstanislau)|matheus.estanislau@icloud.com|
 |EPS|170080366|Moacir Mascarenha|[moacirmsj](https://github.com/moacirmsj)|170080366@aluno.unb.br|
-|MDS|190016647|Lucas Oliveira Meireles|.[Katuner](https://github.com/Katuner)|katunerx@gmail.com|
+|MDS|190016647|Lucas Oliveira Meireles|[Katuner](https://github.com/Katuner)|katunerx@gmail.com|
 |MDS|190094320|Pedro Siqueira|[PedroSiq](https://github.com/PedroSiq)|pedroaugustossiqueira@gmail.com|
 |MDS|190125152|Andrew Oliveira Cerqueira Lugon|[andrewlugon](https://github.com/andrewlugon)|andrewlugon000@gmail.com|
 |MDS|202017503|Wildemberg Sales da Silva Junior|[wildemberg-sales](https://github.com/wildemberg-sales)|junior_sales2010@hotmail.com|
