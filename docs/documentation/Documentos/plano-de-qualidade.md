@@ -22,7 +22,7 @@ Então o intuito desse plano é realizar uma análise específica e uma padroniz
 
 ### 2.1 Ferramentas
 
-- [Jest]()https://jestjs.io/: Framework de teste para JavaScript
+- [Jest](https://jestjs.io/): Framework de teste para JavaScript
   
 - [ESLint](https://eslint.org/): Ferramenta de verificação automática de código, faz com que o código seja escrito de acordo com os padrões encontrados no ECMAScript.
   
@@ -40,7 +40,7 @@ Para unificar as métricas e critérios de qualidade, foi criado uma [Planilha d
 ### 2.3 Monitoramento
 
 Para garantir os procedimentos de qualidade estão sendo realizados temos tarefas automatizadas, como: testes automatizados, documentação, controle de versão, controle de código, controle de commit e outros.
-E também tarefas manuais onde a equipe de gerência fica responsável por verificar se os parâmentros do plano de qualidade estão sendo atendidos.
+E também tarefas manuais onde a equipe fica responsável por verificar se os parâmentros do plano de qualidade estão sendo atendidos.
 
 
 ## 3. Referências Bibliográficas
