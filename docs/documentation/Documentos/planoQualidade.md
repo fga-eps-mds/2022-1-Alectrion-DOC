@@ -13,7 +13,7 @@ Antes de começar a analisar o plano de qualidade, é importante entender o que 
  - “Um produto de software apresenta qualidade dependendo do grau de satisfação das necessidades dos clientes sob todos os aspectos do produto” (Sanders, 1994).
  - "Qualidade é a totalidade de características e critérios de um produto ou serviço que exercem suas habilidades para satisfazer as necessidades declaradas ou envolvidas" (ISO9126).
 
-# 2. Objetivo
+# 2. Objetivo do Plano de Qualidade
 
     O plano de qualidade visa em especificar os procedimentos, tecnicas e ferramentas utilizadas, empregados para que o produto atenda os requisitos de qualidade. Portando, o plano deve guiar para que o produto, construido, atenda a qualidade estipulada. 
     Objetivos da qualidade serão apontados e por meio de metricas, temos uma noção sobre a qualidade do produto construído. Portanto, com valores, melhorias podem ser realizadas afim de melhorar a qualidade do produto. 
@@ -34,15 +34,19 @@ Antes de começar a analisar o plano de qualidade, é importante entender o que 
 O objetivo de qualidade é cumprir os requisitos identificando os defeitos, erros e falhas. Ou seja, o grau de conformidade de um sistema, componente ou processo com as necessidades e expectativas de clientes ou usuários [3].
 
 
-# 4. Verificação e validação
+# 4. Verificação e validação <!-- João -->
 
-# 5. Padrões, práticas, convenções e métricas 
+# 5. Padrões, práticas, convenções e métricas <!-- Cristo -->
 
-## 5.1 ISOS e normas
+## 5.1 ISOS e normas <!-- Moacir -->
 
-## 5.2 Padrões de codificação
+## 5.2 Padrões de codificação <!-- Lucas -->
 
-## 5.3 Metricas
+    O código-fonte seguirá as diretrizes dos padrões de codificação Typescript.
+
+
+
+## 5.3 Metricas <!-- Guilherme -->
     
     Métricas ou processo de medição são atributos uilizados para avaliar a qualidade do produto. Não existem medidas quantitativas básicas, medidas absolutas e com isso tentamos derivar medidas para que indicão a representação do software.
     Para medir qualidade de software deve-se determinar quais características medir e como medir. [4]
@@ -51,17 +55,33 @@ O objetivo de qualidade é cumprir os requisitos identificando os defeitos, erro
     - Indicar a qualidade do produto
     - Avaliar a produtividade
     - Aferir os resultados gerados
-    - 
-    - 
-- Nome: O que é? Porquê medir?
 
+    As métricas escolhidas foram:
+    
+|Metrica|Descrição|
+|---|---|
+|Cognitive Complexity|Medida de dificuldade de entender uma unidade de código|
+|Comments (%)|Densidade de comentários no código|
+|Coverage|Medição de cobertura de testes|
+|Cyclomatic Complexity|Indica complexidade de caminhos de execução do código|
+|Duplicated Lines (%)|Indicas Linhas duplicadas no código|
+|Files|Indica quantidade de arquivos de código|
+|Functions|Indica quantidade de funções no código|
+|Lines of Code|Indica quantidade de linhas de código|
+|Security Rating|Indica segurança interna da aplicação e as vunerabilidades|
+|Unit Test Duration|Tempo de execução dos testes unitários|
+|Unit Test Errors|Indica quantidade de erros nos testes unitários|
+|Unit Test Failures|Indica quantos testes unitários falharam|
+|Unit Tests|Indica a quantidade de testes unitários|
+
+    
 # 6. Teste
 
     - Teste de unitários: consiste em verigicar o comportamento das unidades da aplicação 
     - Teste de integração: os módulos são testados em grupos para garantir que as funcionalidades unitárias se comunicam quando integrado
     - Teste caixa branca: testes referentes ao acesso à estrutura interna da aplicação, garantindo que os componentes do software estejam concisos.
     - Teste caixa preta: testes que se preocupam com os elementos funcionais do software, garantindo que os requisitos funcionais estão coerentes
-  - 
+  
 # 7. Ferramentas, técnicas e metodologias
 
 - [Jest](https://jestjs.io/): Framework de teste para JavaScript
