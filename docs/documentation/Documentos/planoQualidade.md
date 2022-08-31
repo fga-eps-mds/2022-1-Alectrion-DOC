@@ -25,8 +25,6 @@ Antes de começar a analisar o plano de qualidade, é importante entender o que 
     - Apresentar a interpretação e uso das metricas para o produto.
     - Especificar procedimentos, tecnicas e ferramentas utilizadas para medir/melhorar a qualidade do produto.
 
-
-
 # 3. Documentação
 
 <!-- Indicar onde estão os requisitos, arquitetura, documentação do usuário, guia de instalação -->
@@ -49,18 +47,22 @@ O objetivo de qualidade é cumprir os requisitos identificando os defeitos, erro
     Métricas ou processo de medição são atributos uilizados para avaliar a qualidade do produto. Não existem medidas quantitativas básicas, medidas absolutas e com isso tentamos derivar medidas para que indicão a representação do software.
     Para medir qualidade de software deve-se determinar quais características medir e como medir. [4]
     
+    Existem algumas razões para medir o software:
+    - Indicar a qualidade do produto
+    - Avaliar a produtividade
+    - Aferir os resultados gerados
+    - 
+    - 
 - Nome: O que é? Porquê medir?
 
-# 7. Teste
+# 6. Teste
 
-    - Teste de unitários:
-    - Teste de integração:
-    - Teste caixa branca:
-    - Teste caixa preta:
-    - 
-<!-- # Problemas e ações corretivas -->
-
-# 8. Ferramentas, técnicas e metodologias
+    - Teste de unitários: consiste em verigicar o comportamento das unidades da aplicação 
+    - Teste de integração: os módulos são testados em grupos para garantir que as funcionalidades unitárias se comunicam quando integrado
+    - Teste caixa branca: testes referentes ao acesso à estrutura interna da aplicação, garantindo que os componentes do software estejam concisos.
+    - Teste caixa preta: testes que se preocupam com os elementos funcionais do software, garantindo que os requisitos funcionais estão coerentes
+  - 
+# 7. Ferramentas, técnicas e metodologias
 
 - [Jest](https://jestjs.io/): Framework de teste para JavaScript
   
@@ -70,14 +72,14 @@ O objetivo de qualidade é cumprir os requisitos identificando os defeitos, erro
 
 - [SonarCloud](https://sonarcloud.io/): Ferramenta de varredura de código para analisar o código de acordo com as regras e métricas definidas.
 
-# 9. Controle de código
+# 8. Controle de código
 
 Para garantir os procedimentos de qualidade estão sendo realizados temos tarefas automatizadas, como: testes automatizados, documentação, controle de versão, controle de código, controle de commit e outros.
 E também tarefas manuais onde a equipe de gerência fica responsável por verificar se os parâmentros do plano de qualidade estão sendo atendidos.
 
-# 10. Coleta e manutenção
+# 9. Coleta e manutenção
 
-# 11. Referências Bibliográficas
+# 10. Referências Bibliográficas
 
 > [1] NBR - ISO/IEC 9126-1 - Software engineering - Product quality - Part 1: Quality model. Disponivel em: https://jkolb.com.br/wp-content/uploads/2014/02/NBR-ISO_IEC-9126-1.pdf
 
