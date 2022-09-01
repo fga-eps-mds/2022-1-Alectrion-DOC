@@ -2,7 +2,7 @@
 layout: default
 title: Sprint 6
 parent: Sprint
-nav_order: 6
+nav_order: 7
 ---
 # Sprint 6 
 
@@ -48,12 +48,12 @@ Objetivo da sprint: finalizar atividades remanescentes das US2 e US05 e início 
 |EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
 |EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
 |EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:white_check_mark:|
+|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:x:|
 |MDS|Igor Silva de Paiva|:x:|:white_check_mark:|
 |MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
 |MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
 |MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Oliveira Meireles|:x:|:white_check_mark:|
+|MDS|Lucas Oliveira Meireles|:x:|:x:|
 |MDS|Pedro Siqueira|:white_check_mark:|:white_check_mark:|
 |MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
 
@@ -61,6 +61,6 @@ Objetivo da sprint: finalizar atividades remanescentes das US2 e US05 e início 
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|22/08/2022|Criação do documento| Guilherme Leal |
+|29/08/2022|Criação do documento| Guilherme Leal |
 
 
