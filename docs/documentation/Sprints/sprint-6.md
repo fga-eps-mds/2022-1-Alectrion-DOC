@@ -26,16 +26,17 @@ Objetivo da sprint: finalizar atividades remanescentes das US2 e US05 e início 
 |--------|
 |[US02](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/61) - Lucas Heler e Mário|
 |[US05](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/76) - Pedro Siqueira e João Pedro|
-|[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg e Igor|
+|[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg, Igor, Moacir|
 |[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - (incremento)|
 |[US14](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/69) - Matheus e Lucas Alexandre|
-|[US16](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - GUilherme e João Pedro|
+|[US16](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - Guilherme e João Pedro|
+
 
 ## 3. Quadro de conhecimento antes do início da Sprint
 
 <br>
 
-![Quadro de conhecimento Semana ](./assets/sprint2.png)
+![Quadro de conhecimento Semana ](./assets/quadro3.png)
 
 <br>
 
