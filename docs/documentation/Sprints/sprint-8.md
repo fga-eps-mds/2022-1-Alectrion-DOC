@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Sprint 6
+title: Sprint 8
 parent: Sprint
-nav_order: 7
+nav_order: 9
 ---
-# Sprint 6 
+# Sprint 8
 
 <br>
 
@@ -12,24 +12,26 @@ nav_order: 7
 
 <br>
 
-- Data Inicio: 29/08/2022
-- Data Termino: 05/09/2022
+- Data Inicio: 05/09/2022
+- Data Termino: 12/09/2022
 
 <br>
 
 ## 2. Sprint Backlog
 
 <br>
-Objetivo da sprint: finalizar atividades remanescentes das US2 e US05 e início das US's: 06, 07 14 e 16.
+Objetivo da sprint: 
 
-|Tarefas|
+|Tarefas sprint 8|
 |--------|
-|[US02](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/61) - Lucas Heler e Mário|
 |[US05](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/76) - Pedro Siqueira e João Pedro|
 |[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg e Igor|
 |[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - (incremento)|
-|[US14](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/69) - Matheus e Lucas Alexandre|
-|[US16](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - GUilherme e João Pedro|
+|[US09](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/59) - |
+|[US13](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/68) - |
+|[US10](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/62) - |
+|[US14 - testes](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/69) - Matheus e Lucas Alexandre|
+|[US16 - testes](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - GUilherme e João Pedro|
 
 ## 3. Quadro de conhecimento antes do início da Sprint
 
@@ -61,6 +63,6 @@ Objetivo da sprint: finalizar atividades remanescentes das US2 e US05 e início 
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|29/08/2022|Criação do documento| Guilherme Leal |
+|05/09/2022|Criação do documento| Guilherme Leal |
 
 

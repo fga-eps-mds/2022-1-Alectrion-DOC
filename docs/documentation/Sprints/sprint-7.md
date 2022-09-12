@@ -20,11 +20,10 @@ nav_order: 8
 ## 2. Sprint Backlog
 
 <br>
-Objetivo da sprint: 
+Objetivo da sprint: Finalizar: US05, US06, US14, US16
 
-|Tarefas sprint 6|
+|Tarefas sprint 7|
 |--------|
-|[US02](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/61) - Lucas Heler e Mário|
 |[US05](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/76) - Pedro Siqueira e João Pedro|
 |[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg e Igor|
 |[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - (incremento)|
