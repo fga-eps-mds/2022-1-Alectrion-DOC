@@ -26,15 +26,18 @@ Objetivo da sprint: Finalizar: US05, US06, US14, US16
 |--------|
 |[US05](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/76) - Pedro Siqueira e João Pedro|
 |[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg e Igor|
-|[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - (incremento)|
 |[US14](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/69) - Matheus e Lucas Alexandre|
-|[US16](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - GUilherme e João Pedro|
+|[US16](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - Guilherme e João Pedro|
+|[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - (incremento)|
+|[US09](https://github.com/fga-eps-mds/2022-1-alectrion-doc/issues/59) - (incremento)|
+|Refatoração EVM (agile) - Guilherme|
+|Ajuste coleta de métricas por PR - Moacir|
 
 ## 3. Quadro de conhecimento antes do início da Sprint
 
 <br>
 
-![Quadro de conhecimento Semana ](./assets/sprint2.png)
+![Quadro de conhecimento Semana ](./assets/quadro3.png)
 
 <br>
 
@@ -47,13 +50,11 @@ Objetivo da sprint: Finalizar: US05, US06, US14, US16
 |EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
 |EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
 |EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:x:|
-|MDS|Igor Silva de Paiva|:x:|:white_check_mark:|
+|MDS|Igor Silva de Paiva|:white_check_mark:|:white_check_mark:|
 |MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
 |MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
 |MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Oliveira Meireles|:x:|:x:|
-|MDS|Pedro Siqueira|:white_check_mark:|:white_check_mark:|
+|MDS|Pedro Siqueira|:x:|:white_check_mark:|
 |MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
 
 ## 5. Histórico da revisão

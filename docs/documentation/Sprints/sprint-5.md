@@ -36,7 +36,7 @@ Objetivo da sprint: terminar funcionalidades do usuário, autenticação na apli
 
 <br>
 
-![Quadro de conhecimento Semana ](./assets/sprint2.png)
+![Quadro de conhecimento Semana ](./assets/quadro3.png)
 
 <br>
 

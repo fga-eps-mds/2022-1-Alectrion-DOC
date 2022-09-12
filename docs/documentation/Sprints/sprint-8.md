@@ -12,8 +12,8 @@ nav_order: 9
 
 <br>
 
-- Data Inicio: 05/09/2022
-- Data Termino: 12/09/2022
+- Data Inicio: 12/09/2022
+- Data Termino: 19/09/2022
 
 <br>
 
@@ -63,6 +63,6 @@ Objetivo da sprint:
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
-|05/09/2022|Criação do documento| Guilherme Leal |
+|12/09/2022|Criação do documento| Guilherme Leal |
 
 
