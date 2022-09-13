@@ -1,0 +1,695 @@
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 100,
+        "total": 10
+    },
+    "baseComponent": {
+        "id": "AYKjCah0lSOmFpFF2icH",
+        "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd",
+        "name": "2022-1-Alectrion-FrontEnd",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "duplicated_lines_density",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "12"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "files",
+                "value": "4"
+            },
+            {
+                "metric": "complexity",
+                "value": "24"
+            },
+            {
+                "metric": "ncloc",
+                "value": "307"
+            },
+            {
+                "metric": "coverage",
+                "value": "59.6",
+                "bestValue": false
+            },
+            {
+                "metric": "comment_lines_density",
+                "value": "0.0",
+                "bestValue": false
+            }
+        ],
+        "pullRequest": "13"
+    },
+    "components": [
+        {
+            "id": "AYKjCamuXxzs6oVwX9D1",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/components",
+            "name": "components",
+            "qualifier": "DIR",
+            "path": "src/components",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "3"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "15"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "186"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "75.2",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamtXxzs6oVwX9Dm",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/components/register-user-form/index.tsx",
+            "name": "index.tsx",
+            "qualifier": "FIL",
+            "path": "src/components/register-user-form/index.tsx",
+            "language": "ts",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "15"
+                },
+                {
+                    "metric": "functions",
+                    "value": "3"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "186"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "97.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9D_",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/pages/task/index.tsx",
+            "name": "index.tsx",
+            "qualifier": "FIL",
+            "path": "src/pages/task/index.tsx",
+            "language": "ts",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "4"
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "50"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "50.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9ED",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/pages",
+            "name": "pages",
+            "qualifier": "DIR",
+            "path": "src/pages",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "8"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "8"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "104"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "20.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9Do",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/components/register-user-form",
+            "name": "register-user-form",
+            "qualifier": "DIR",
+            "path": "src/components/register-user-form",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "3"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "15"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "186"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "98.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9EG",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/routes",
+            "name": "routes",
+            "qualifier": "DIR",
+            "path": "src/routes",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "17"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9EF",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/routes/routes.tsx",
+            "name": "routes.tsx",
+            "qualifier": "FIL",
+            "path": "src/routes/routes.tsx",
+            "language": "ts",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "17"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9EO",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src",
+            "name": "src",
+            "qualifier": "DIR",
+            "path": "src",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "12"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "4"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "24"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "307"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "59.6",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9D-",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/pages/task/styles.tsx",
+            "name": "styles.tsx",
+            "qualifier": "FIL",
+            "path": "src/pages/task/styles.tsx",
+            "language": "ts",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "4"
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "54"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "100.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ],
+            "pullRequest": "13"
+        },
+        {
+            "id": "AYKjCamuXxzs6oVwX9EA",
+            "key": "fga-eps-mds_2022-1-Alectrion-FrontEnd:src/pages/task",
+            "name": "task",
+            "qualifier": "DIR",
+            "path": "src/pages/task",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "8"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "8"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "104"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "76.9",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ],
+            "pullRequest": "13"
+        }
+    ],
+    "metrics": [
+        {
+            "key": "comment_lines_density",
+            "name": "Comments (%)",
+            "description": "Comments balanced by ncloc + comment lines",
+            "domain": "Size",
+            "type": "PERCENT",
+            "higherValuesAreBetter": true,
+            "qualitative": true,
+            "hidden": false,
+            "custom": false,
+            "decimalScale": 1,
+            "bestValue": "100.0",
+            "worstValue": "0.0"
+        },
+        {
+            "key": "complexity",
+            "name": "Cyclomatic Complexity",
+            "description": "Cyclomatic complexity",
+            "domain": "Complexity",
+            "type": "INT",
+            "higherValuesAreBetter": false,
+            "qualitative": false,
+            "hidden": false,
+            "custom": false
+        },
+        {
+            "key": "tests",
+            "name": "Unit Tests",
+            "description": "Number of unit tests",
+            "domain": "Coverage",
+            "type": "INT",
+            "higherValuesAreBetter": true,
+            "qualitative": false,
+            "hidden": false,
+            "custom": false
+        },
+        {
+            "key": "ncloc",
+            "name": "Lines of Code",
+            "description": "Non commenting lines of code",
+            "domain": "Size",
+            "type": "INT",
+            "higherValuesAreBetter": false,
+            "qualitative": false,
+            "hidden": false,
+            "custom": false
+        },
+        {
+            "key": "files",
+            "name": "Files",
+            "description": "Number of files",
+            "domain": "Size",
+            "type": "INT",
+            "higherValuesAreBetter": false,
+            "qualitative": false,
+            "hidden": false,
+            "custom": false
+        },
+        {
+            "key": "functions",
+            "name": "Functions",
+            "description": "Functions",
+            "domain": "Size",
+            "type": "INT",
+            "higherValuesAreBetter": false,
+            "qualitative": false,
+            "hidden": false,
+            "custom": false
+        },
+        {
+            "key": "test_execution_time",
+            "name": "Unit Test Duration",
+            "description": "Execution duration of unit tests",
+            "domain": "Coverage",
+            "type": "MILLISEC",
+            "higherValuesAreBetter": false,
+            "qualitative": false,
+            "hidden": false,
+            "custom": false
+        },
+        {
+            "key": "test_errors",
+            "name": "Unit Test Errors",
+            "description": "Number of unit test errors",
+            "domain": "Coverage",
+            "type": "INT",
+            "higherValuesAreBetter": false,
+            "qualitative": true,
+            "hidden": false,
+            "custom": false,
+            "bestValue": "0"
+        },
+        {
+            "key": "duplicated_lines_density",
+            "name": "Duplicated Lines (%)",
+            "description": "Duplicated lines balanced by statements",
+            "domain": "Duplications",
+            "type": "PERCENT",
+            "higherValuesAreBetter": false,
+            "qualitative": true,
+            "hidden": false,
+            "custom": false,
+            "decimalScale": 1,
+            "bestValue": "0.0",
+            "worstValue": "100.0"
+        },
+        {
+            "key": "test_failures",
+            "name": "Unit Test Failures",
+            "description": "Number of unit test failures",
+            "domain": "Coverage",
+            "type": "INT",
+            "higherValuesAreBetter": false,
+            "qualitative": true,
+            "hidden": false,
+            "custom": false,
+            "bestValue": "0"
+        },
+        {
+            "key": "coverage",
+            "name": "Coverage",
+            "description": "Coverage by tests",
+            "domain": "Coverage",
+            "type": "PERCENT",
+            "higherValuesAreBetter": true,
+            "qualitative": true,
+            "hidden": false,
+            "custom": false,
+            "decimalScale": 1,
+            "bestValue": "100.0",
+            "worstValue": "0.0"
+        },
+        {
+            "key": "security_rating",
+            "name": "Security Rating",
+            "description": "Security rating",
+            "domain": "Security",
+            "type": "RATING",
+            "higherValuesAreBetter": false,
+            "qualitative": true,
+            "hidden": false,
+            "custom": false,
+            "bestValue": "1.0",
+            "worstValue": "5.0"
+        }
+    ]
+}

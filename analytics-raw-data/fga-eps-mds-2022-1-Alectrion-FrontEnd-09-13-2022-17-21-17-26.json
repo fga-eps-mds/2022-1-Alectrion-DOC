@@ -1,1 +1,0 @@
-{"component":{"id":"AYM33k8HKdDAMHZ28238","key":"fga-eps-mds_2022-1-Alectrion-FrontEnd","name":"2022-1-Alectrion-FrontEnd","qualifier":"TRK","measures":[{"metric":"coverage","value":"80.5","bestValue":false},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true}],"pullRequest":"26"}}
