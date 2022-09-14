@@ -25,13 +25,18 @@ Objetivo da sprint:
 |Tarefas sprint 8|
 |--------|
 |[US05](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/76) - Pedro Siqueira e João Pedro|
-|[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg e Igor|
-|[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - (incremento)|
-|[US09](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/59) - |
-|[US13](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/68) - |
-|[US10](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/62) - |
+|[US06](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/78) - Wildemberg e Moacir|
+|[US07](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/79) - Mário|
+|[US18](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/145) - Igor|
+|[US09](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/59) - (incremento)|
+|[US13](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/68) - (incremento)|
+|[US10](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/62) - (incremento)|
+|[US15](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/70) - (incremento)|
+|[US08](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/77) - (incremento)|
+|[US17](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/75) - (incremento)|
 |[US14 - testes](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/69) - Matheus e Lucas Alexandre|
-|[US16 - testes](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - GUilherme e João Pedro|
+|[US16 - testes](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/72) - Guilherme e João Pedro|
+|[Analytics](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/150) - Moacir e Lucas Alexandre|
 
 ## 3. Quadro de conhecimento antes do início da Sprint
 
@@ -45,19 +50,17 @@ Objetivo da sprint:
 
 |Turma|Nome|Planning/Review|Reunião PO|
 |--|--|--|--|
-|EPS|Guilherme Leal|:white_check_mark:|:white_check_mark:|
-|EPS|João Pedro Soares|:white_check_mark:|:white_check_mark:|
-|EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
-|EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
-|EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:x:|
-|MDS|Igor Silva de Paiva|:x:|:white_check_mark:|
-|MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
-|MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Oliveira Meireles|:x:|:x:|
-|MDS|Pedro Siqueira|:white_check_mark:|:white_check_mark:|
-|MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
+|EPS|Guilherme Leal|presente|presente|
+|EPS|João Pedro Soares|presente|presente|
+|EPS|Lucas Alexandre|presente|presente|
+|EPS|Matheus Estanislau|presente|presente|
+|EPS|Moacir Mascarenha|presente|presente|
+|MDS|Igor Silva de Paiva|presente|presente|
+|MDS|João Pedro Alves Machado|presente|presente|
+|MDS|Mário Vinícius|presente|presente|
+|MDS|Lucas Heler Lopes|presente|presente|
+|MDS|Pedro Siqueira|presente|presente|
+|MDS|Wildemberg Sales da Silva Junior|presente|presente|
 
 ## 5. Histórico da revisão
 

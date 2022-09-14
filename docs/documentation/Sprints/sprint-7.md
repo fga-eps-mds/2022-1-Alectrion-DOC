@@ -45,17 +45,17 @@ Objetivo da sprint: Finalizar: US05, US06, US14, US16
 
 |Turma|Nome|Planning/Review|Reunião PO|
 |--|--|--|--|
-|EPS|Guilherme Leal|:white_check_mark:|:white_check_mark:|
-|EPS|João Pedro Soares|:white_check_mark:|:white_check_mark:|
-|EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
-|EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
-|EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Igor Silva de Paiva|:white_check_mark:|:white_check_mark:|
-|MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
-|MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
-|MDS|Pedro Siqueira|:x:|:white_check_mark:|
-|MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
+|EPS|Guilherme Leal|presente|presente|
+|EPS|João Pedro Soares|presente|presente|
+|EPS|Lucas Alexandre|presente|presente|
+|EPS|Matheus Estanislau|presente|presente|
+|EPS|Moacir Mascarenha|presente|presente|
+|MDS|Igor Silva de Paiva|presente|presente|
+|MDS|João Pedro Alves Machado|presente|presente|
+|MDS|Mário Vinícius|presente|presente|
+|MDS|Lucas Heler Lopes|presente|presente|
+|MDS|Pedro Siqueira|ausente|presente|
+|MDS|Wildemberg Sales da Silva Junior|presente|presente|
 
 ## 5. Histórico da revisão
 

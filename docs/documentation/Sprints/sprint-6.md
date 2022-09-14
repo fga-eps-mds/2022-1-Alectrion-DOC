@@ -44,19 +44,19 @@ Objetivo da sprint: finalizar atividades remanescentes das US2 e US05 e início 
 
 |Turma|Nome|Planning/Review|Reunião PO|
 |--|--|--|--|
-|EPS|Guilherme Leal|:white_check_mark:|:white_check_mark:|
-|EPS|João Pedro Soares|:white_check_mark:|:white_check_mark:|
-|EPS|Lucas Alexandre|:white_check_mark:|:white_check_mark:|
-|EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
-|EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Andrew Oliveira Cerqueira Lugon|:x:|:x:|
-|MDS|Igor Silva de Paiva|:x:|:white_check_mark:|
-|MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
-|MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Heler Lopes|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Oliveira Meireles|:x:|:x:|
-|MDS|Pedro Siqueira|:white_check_mark:|:white_check_mark:|
-|MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
+|EPS|Guilherme Leal|presente|presente|
+|EPS|João Pedro Soares|presente|presente|
+|EPS|Lucas Alexandre|presente|presente|
+|EPS|Matheus Estanislau|presente|presente|
+|EPS|Moacir Mascarenha|presente|presente|
+|MDS|Andrew Oliveira Cerqueira Lugon|ausente|ausente|
+|MDS|Igor Silva de Paiva|ausente|presente|
+|MDS|João Pedro Alves Machado|presente|presente|
+|MDS|Mário Vinícius|presente|presente|
+|MDS|Lucas Heler Lopes|presente|presente|
+|MDS|Lucas Oliveira Meireles|ausente|ausente|
+|MDS|Pedro Siqueira|presente|presente|
+|MDS|Wildemberg Sales da Silva Junior|presente|presente|
 
 ## 5. Histórico da revisão
 
