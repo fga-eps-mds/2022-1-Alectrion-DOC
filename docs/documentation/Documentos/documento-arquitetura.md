@@ -72,7 +72,13 @@ Banco de Dados Equipamentos - Responsável por armazenar os dados dos equipament
 ### 3.3 Microserviço de equipamentos
 
 ![diagrama de classes equipamento](../assets/diagrama-classes-equipamentos.png)
-## 4. Referências Bibliográficas
+
+## 4. Visão de dados
+### 4.1 Diagrama logico de dados
+
+![Diagrama logico de dados](../assets/DER.png)
+
+## 5. Referências Bibliográficas
 
 > [1] Microserviço. Disponivel em: https://www.ibm.com/br-pt/cloud/learn/microservices
 
@@ -81,9 +87,10 @@ Banco de Dados Equipamentos - Responsável por armazenar os dados dos equipament
 > [3] Node Js. Disponivel em: https://developer.oracle.com/nodejs/what-is-node-js/
 
 > [4] ExpressJs. Disponivel em: https://expressjs.com/pt-br/
-## 5. Histórico da revisão
+## 6. Histórico da revisão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
 |17/07/2022|Criação do documento| João Pedro Soares e Matheus Estanislau |
 |31/07/2022|Adição diagrama de classes| João Pedro Soares e Matheus Estanislau|
+|13/09/2022|Adição diagrama logico de dados| João Pedro Soares, Matheus Estanislau e Lucas alexandre|
