@@ -22,7 +22,9 @@ resultado da atividade e não a atividade propriamente dita.
 
 ## 2. EAP
   
-![Estrutura Analítica do Projeto](../assets/eap.png)
+![Estrutura Analítica do Projeto](./assets/eap.png)
+
+![Estrutura Analítica do Projeto V2](./assets/EAP.drawio.png)
 
 ## 3. Referências Bibliográficas
 
