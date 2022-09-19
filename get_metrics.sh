@@ -4,8 +4,8 @@
 # Para executar passe a lista de PRs analisados
 # Exemplo: bash get_metrics.sh 1 2 3 4
 # equip: bash get_metrics.sh 2 3 4 6
-# user:  bash get_metrics.sh 9 11 12 13 14 16 15
-# front: bash get_metrics.sh 13 12 14 15 16 17 18 24 26
+# user:  bash get_metrics.sh 9 11 12 13 14 16 15 19
+# front: bash get_metrics.sh 13 12 14 15 16 17 18 24 26 29 32
 
 #PROJECT_KEY=fga-eps-mds-2022-1-Alectrion-FrontEnd
 #PROJECT_KEY=fga-eps-mds-2022-1-Alectrion-UserAPI
