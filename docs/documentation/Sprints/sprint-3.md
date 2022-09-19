@@ -23,7 +23,7 @@ nav_order: 4
 
 |Tarefas|
 |--------| 
-|issue [#90 :x:](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/90)|
+|issue [#90 ausente](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/90)|
 |issue [#92 (testes)](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/92)| 
 |issue [#112 (testes)](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/112)|
 |issue [#113](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/113)|
@@ -47,19 +47,19 @@ nav_order: 4
 
 |Turma|Nome|Planning/Review|Reunião PO|
 |--|--|--|--|
-|EPS|Guilherme Leal|:white_check_mark:|:white_check_mark:|
-|EPS|João Pedro Soares|:white_check_mark:|:white_check_mark:|
-|EPS|Lucas Alexandre|:white_check_mark:|:x:|
-|EPS|Matheus Estanislau|:white_check_mark:|:white_check_mark:|
-|EPS|Moacir Mascarenha|:white_check_mark:|:white_check_mark:|
-|MDS|Andrew Oliveira Cerqueira Lugon|:white_check_mark:|:x:|
-|MDS|Igor Silva de Paiva|:white_check_mark:|:white_check_mark:|
-|MDS|João Pedro Alves Machado|:white_check_mark:|:white_check_mark:|
-|MDS|Mário Vinícius|:white_check_mark:|:white_check_mark:|
-|MDS|Lucas Heler Lopes|:white_check_mark:|:x:|
-|MDS|Lucas Oliveira Meireles|:white_check_mark:|:x:|
-|MDS|Pedro Siqueira|:white_check_mark:|:white_check_mark:|
-|MDS|Wildemberg Sales da Silva Junior|:white_check_mark:|:white_check_mark:|
+|EPS|Guilherme Leal|presente|presente|
+|EPS|João Pedro Soares|presente|presente|
+|EPS|Lucas Alexandre|presente|ausente|
+|EPS|Matheus Estanislau|presente|presente|
+|EPS|Moacir Mascarenha|presente|presente|
+|MDS|Andrew Oliveira Cerqueira Lugon|presente|ausente|
+|MDS|Igor Silva de Paiva|presente|presente|
+|MDS|João Pedro Alves Machado|presente|presente|
+|MDS|Mário Vinícius|presente|presente|
+|MDS|Lucas Heler Lopes|presente|ausente|
+|MDS|Lucas Oliveira Meireles|presente|ausente|
+|MDS|Pedro Siqueira|presente|presente|
+|MDS|Wildemberg Sales da Silva Junior|presente|presente|
 
 ## 5. Histórico da revisão
 
