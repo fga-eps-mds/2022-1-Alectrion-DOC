@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint 7
-parent: Sprint
+parent: Sprints
 nav_order: 8
 ---
 # Sprint 7
