@@ -63,4 +63,4 @@ A maneira de interpretar a saúde dos prazos nos permite analisar os valores Pla
 | SPI = EV / PV | Índice de Desempenho de Prazo |
 | SPV = EV - PV | Variação de Desempenho de Prazo |
 
-|10/08/2022|Adicionado/criada Planilha EVM AGILE e iframe | Guilherme Leal|
+|10/09/2022|Adicionado/criada Planilha EVM AGILE e iframe | Guilherme Leal|
