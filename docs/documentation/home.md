@@ -14,7 +14,7 @@ nav_order: 1
 Alectrion é um sistema de controle e gerenciamento de inventário e ordens de serviços de TI.
 
 ## Contribuir
-Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição]([docs\documentation\Documentos\guia-contribuicao.md](https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/guia-contribuicao.html) do repositório e seguir nossa [Política de Branches](https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/politicas-branch.html).
+Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição](https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/guia-contribuicao.html) do repositório e seguir nossa [Política de Branches](https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/politicas-branch.html).
 
 ## Ambientes
 
