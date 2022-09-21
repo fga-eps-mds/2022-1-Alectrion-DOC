@@ -11,7 +11,7 @@ parent: Documentos
 Para a contribuição nos repositórios do projeto, o contribuinte deverá seguir o seguinte [código de conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
 # Politica de Issues
-Para a documentação de novas issues deverão seguir os templates estabelecidos de [bug report](../Templates/BUG_REPORT), [geral](../Templates/GERAL.md) e [história de usuário](../Templates/USER_STORY.md).
+Para a documentação de novas issues deverão seguir os templates estabelecidos de bug report], geral e história de usuário.
 
 # Política de Commit
 Os commits deverão seguir o padrão de mensagens especificados pelo [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), a descrição dos commits deverá ser escrita em português, os commits deverão ser divididos por camadas, além disso devem referenciar a Issue trabalhada. 
