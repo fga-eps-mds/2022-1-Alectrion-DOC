@@ -1,0 +1,2039 @@
+{
+  "paging": { "pageIndex": 1, "pageSize": 100, "total": 73 },
+  "baseComponent": {
+    "id": "AYMzs51N75N-mE7k3GAq",
+    "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi",
+    "name": "2022-1-Alectrion-EquipamentApi",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "duplicated_lines_density",
+        "value": "1.8",
+        "bestValue": false
+      },
+      { "metric": "functions", "value": "124" },
+      { "metric": "security_rating", "value": "1.0", "bestValue": true },
+      { "metric": "files", "value": "48" },
+      { "metric": "complexity", "value": "166" },
+      { "metric": "ncloc", "value": "1380" },
+      { "metric": "coverage", "value": "15.0", "bestValue": false },
+      { "metric": "comment_lines_density", "value": "0.1", "bestValue": false }
+    ],
+    "pullRequest": "4"
+  },
+  "components": [
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Mt",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/migrations/1662506781588-default.ts",
+      "name": "1662506781588-default.ts",
+      "qualifier": "FIL",
+      "path": "src/db/migrations/1662506781588-default.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "34" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Ni",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/acquisitionRepository.ts",
+      "name": "acquisitionRepository.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/acquisitionRepository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "ncloc", "value": "27" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NX",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/protocol/acquisitionRepositoryProtocol.ts",
+      "name": "acquisitionRepositoryProtocol.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/protocol/acquisitionRepositoryProtocol.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "9" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nf",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/brandRepository.ts",
+      "name": "brandRepository.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/brandRepository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "functions", "value": "4" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NT",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/protocol/brandRepositoryProtocol.ts",
+      "name": "brandRepositoryProtocol.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/protocol/brandRepositoryProtocol.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "6" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N_",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller",
+      "name": "controller",
+      "qualifier": "DIR",
+      "path": "src/presentation/controller",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "6.6",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "14" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "6" },
+        { "metric": "complexity", "value": "25" },
+        { "metric": "ncloc", "value": "183" },
+        { "metric": "coverage", "value": "19.8", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NP",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/controllers",
+      "name": "controllers",
+      "qualifier": "DIR",
+      "path": "src/factories/controllers",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "5" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "5" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M7",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/repositories/order-service/create-order-service-typeorm-repository.ts",
+      "name": "create-order-service-typeorm-repository.ts",
+      "qualifier": "FIL",
+      "path": "src/db/repositories/order-service/create-order-service-typeorm-repository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "24" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nb",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/order-service/create-order-service.ts",
+      "name": "create-order-service.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/order-service/create-order-service.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "19" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Ny",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/createEquipment",
+      "name": "createEquipment",
+      "qualifier": "DIR",
+      "path": "src/useCases/createEquipment",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "6" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "24" },
+        { "metric": "ncloc", "value": "137" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NF",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/useCases/createEquipment.ts",
+      "name": "createEquipment.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/useCases/createEquipment.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "17" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NJ",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/controllers/createEquipment.ts",
+      "name": "createEquipment.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/controllers/createEquipment.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N-",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller/createEquipmentController.ts",
+      "name": "createEquipmentController.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/controller/createEquipmentController.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "38" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nx",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/createEquipment/createEquipmentUseCase.ts",
+      "name": "createEquipmentUseCase.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/createEquipment/createEquipmentUseCase.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "24" },
+        { "metric": "functions", "value": "6" },
+        { "metric": "ncloc", "value": "137" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NB",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db",
+      "name": "db",
+      "qualifier": "DIR",
+      "path": "src/db",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "40" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "10" },
+        { "metric": "complexity", "value": "41" },
+        { "metric": "ncloc", "value": "409" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M0",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/dismissed.ts",
+      "name": "dismissed.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/dismissed.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "ncloc", "value": "51" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OY",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/domain/entities",
+      "name": "domain/entities",
+      "qualifier": "DIR",
+      "path": "src/domain/entities",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "ncloc", "value": "33" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M2",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities",
+      "name": "entities",
+      "qualifier": "DIR",
+      "path": "src/db/entities",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "34" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "7" },
+        { "metric": "complexity", "value": "34" },
+        { "metric": "ncloc", "value": "324" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NR",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/equipamentRepository.ts",
+      "name": "equipamentRepository.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/equipamentRepository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "6" },
+        { "metric": "functions", "value": "6" },
+        { "metric": "ncloc", "value": "39" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M6",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/repositories/equipment",
+      "name": "equipment",
+      "qualifier": "DIR",
+      "path": "src/db/repositories/equipment",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "2" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "3" },
+        { "metric": "ncloc", "value": "27" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5My",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/equipment-acquisition.ts",
+      "name": "equipment-acquisition.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/equipment-acquisition.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "14" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M1",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/equipment-brand.ts",
+      "name": "equipment-brand.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/equipment-brand.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "14" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Mx",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/equipment.ts",
+      "name": "equipment.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/equipment.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "10" },
+        { "metric": "functions", "value": "10" },
+        { "metric": "ncloc", "value": "122" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OQ",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/domain/entities/equipment.ts",
+      "name": "equipment.ts",
+      "qualifier": "FIL",
+      "path": "src/domain/entities/equipment.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "33" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NV",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/protocol/equipmentRepositoryProtocol.ts",
+      "name": "equipmentRepositoryProtocol.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/protocol/equipmentRepositoryProtocol.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "8" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OG",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/errors",
+      "name": "errors",
+      "qualifier": "DIR",
+      "path": "src/presentation/errors",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "5" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "31" },
+        { "metric": "coverage", "value": "60.7", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NQ",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories",
+      "name": "factories",
+      "qualifier": "DIR",
+      "path": "src/factories",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "10" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "10" },
+        { "metric": "complexity", "value": "10" },
+        { "metric": "ncloc", "value": "66" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N2",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/findAcquisition",
+      "name": "findAcquisition",
+      "qualifier": "DIR",
+      "path": "src/useCases/findAcquisition",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "28" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NG",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/useCases/findAllAcquisitions.ts",
+      "name": "findAllAcquisitions.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/useCases/findAllAcquisitions.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "6" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NK",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/controllers/findAllAcquisitions.ts",
+      "name": "findAllAcquisitions.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/controllers/findAllAcquisitions.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N5",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller/findAllAcquisitionsController.ts",
+      "name": "findAllAcquisitionsController.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/controller/findAllAcquisitionsController.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "functions", "value": "2" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "18" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N1",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/findAcquisition/findAllAcquisitionUseCase.ts",
+      "name": "findAllAcquisitionUseCase.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/findAcquisition/findAllAcquisitionUseCase.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "ncloc", "value": "28" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NC",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/useCases/findAllBrands.ts",
+      "name": "findAllBrands.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/useCases/findAllBrands.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "6" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NL",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/controllers/findAllBrands.ts",
+      "name": "findAllBrands.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/controllers/findAllBrands.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N9",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller/findAllBrandsController.ts",
+      "name": "findAllBrandsController.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/controller/findAllBrandsController.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "18" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nv",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/findBrand/findAllBrandUseCase.ts",
+      "name": "findAllBrandUseCase.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/findBrand/findAllBrandUseCase.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "26" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NE",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/useCases/findAllUnits.ts",
+      "name": "findAllUnits.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/useCases/findAllUnits.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "6" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NN",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/controllers/findAllUnits.ts",
+      "name": "findAllUnits.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/controllers/findAllUnits.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N6",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller/findAllUnitsController.ts",
+      "name": "findAllUnitsController.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/controller/findAllUnitsController.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "18" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nz",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/findUnit/findAllUnitUseCase.ts",
+      "name": "findAllUnitUseCase.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/findUnit/findAllUnitUseCase.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "ncloc", "value": "26" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nk",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/FindUnit/findAllUnitUseCase.ts",
+      "name": "findAllUnitUseCase.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/FindUnit/findAllUnitUseCase.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "ncloc", "value": "31" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nw",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/findBrand",
+      "name": "findBrand",
+      "qualifier": "DIR",
+      "path": "src/useCases/findBrand",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "26" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N0",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/findUnit",
+      "name": "findUnit",
+      "qualifier": "DIR",
+      "path": "src/useCases/findUnit",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "26" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nl",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/FindUnit",
+      "name": "FindUnit",
+      "qualifier": "DIR",
+      "path": "src/useCases/FindUnit",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "31" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nu",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/getEquipment",
+      "name": "getEquipment",
+      "qualifier": "DIR",
+      "path": "src/useCases/getEquipment",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "9.8",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "9" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "2" },
+        { "metric": "complexity", "value": "15" },
+        { "metric": "ncloc", "value": "166" },
+        { "metric": "coverage", "value": "92.9", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.6",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NO",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/controllers/getEquipment.ts",
+      "name": "getEquipment.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/controllers/getEquipment.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N7",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller/getEquipmentController.spec.ts",
+      "name": "getEquipmentController.spec.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/controller/getEquipmentController.spec.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "files", "value": "1" },
+        { "metric": "ncloc", "value": "66" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "27.8",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N8",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/controller/getEquipmentController.ts",
+      "name": "getEquipmentController.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/controller/getEquipmentController.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NH",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/useCases/getEquipmentFactory.ts",
+      "name": "getEquipmentFactory.ts",
+      "qualifier": "FIL",
+      "path": "src/factories/useCases/getEquipmentFactory.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "6" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nt",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/getEquipment/getEquipmentUseCase.spec.ts",
+      "name": "getEquipmentUseCase.spec.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/getEquipment/getEquipmentUseCase.spec.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "files", "value": "1" },
+        { "metric": "ncloc", "value": "101" },
+        { "metric": "functions", "value": "6" },
+        { "metric": "complexity", "value": "6" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "17.9",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Ns",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases/getEquipment/getEquipmentUseCase.ts",
+      "name": "getEquipmentUseCase.ts",
+      "qualifier": "FIL",
+      "path": "src/useCases/getEquipment/getEquipmentUseCase.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "9" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "ncloc", "value": "65" },
+        { "metric": "coverage", "value": "92.9", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.5",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OC",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/helpers",
+      "name": "helpers",
+      "qualifier": "DIR",
+      "path": "src/presentation/helpers",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "6" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "7" },
+        { "metric": "ncloc", "value": "34" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Mw",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/history.ts",
+      "name": "history.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/history.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "ncloc", "value": "36" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OB",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/helpers/http.ts",
+      "name": "http.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/helpers/http.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "7" },
+        { "metric": "functions", "value": "6" },
+        { "metric": "ncloc", "value": "34" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OF",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation/errors/http.ts",
+      "name": "http.ts",
+      "qualifier": "FIL",
+      "path": "src/presentation/errors/http.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "ncloc", "value": "31" },
+        { "metric": "coverage", "value": "70.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M5",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/repositories/equipment/list-one-equipment-typeorm-repository.ts",
+      "name": "list-one-equipment-typeorm-repository.ts",
+      "qualifier": "FIL",
+      "path": "src/db/repositories/equipment/list-one-equipment-typeorm-repository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "27" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Oc",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/main.ts",
+      "name": "main.ts",
+      "qualifier": "FIL",
+      "path": "src/main.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "ncloc", "value": "22" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Mu",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/migrations",
+      "name": "migrations",
+      "qualifier": "DIR",
+      "path": "src/db/migrations",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "2" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "2" },
+        { "metric": "ncloc", "value": "34" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M8",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/repositories/order-service",
+      "name": "order-service",
+      "qualifier": "DIR",
+      "path": "src/db/repositories/order-service",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "2" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "2" },
+        { "metric": "ncloc", "value": "24" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nc",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/order-service",
+      "name": "order-service",
+      "qualifier": "DIR",
+      "path": "src/repository/order-service",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "ncloc", "value": "19" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Mz",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/order-service.ts",
+      "name": "order-service.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/order-service.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "6" },
+        { "metric": "functions", "value": "6" },
+        { "metric": "ncloc", "value": "58" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OJ",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/presentation",
+      "name": "presentation",
+      "qualifier": "DIR",
+      "path": "src/presentation",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "4.9",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "25" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "8" },
+        { "metric": "complexity", "value": "37" },
+        { "metric": "ncloc", "value": "248" },
+        { "metric": "coverage", "value": "35.2", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NY",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/protocol",
+      "name": "protocol",
+      "qualifier": "DIR",
+      "path": "src/repository/protocol",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "5" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "ncloc", "value": "37" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5M_",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/repositories",
+      "name": "repositories",
+      "qualifier": "DIR",
+      "path": "src/db/repositories",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "4" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "2" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "51" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Nj",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository",
+      "name": "repository",
+      "qualifier": "DIR",
+      "path": "src/repository",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "18" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "10" },
+        { "metric": "complexity", "value": "18" },
+        { "metric": "ncloc", "value": "173" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NW",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/protocol/repository.ts",
+      "name": "repository.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/protocol/repository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "8" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5OZ",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/routes.ts",
+      "name": "routes.ts",
+      "qualifier": "FIL",
+      "path": "src/routes.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "15" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Od",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src",
+      "name": "src",
+      "qualifier": "DIR",
+      "path": "src",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "1.8",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "124" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "48" },
+        { "metric": "complexity", "value": "166" },
+        { "metric": "ncloc", "value": "1380" },
+        { "metric": "coverage", "value": "15.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.1",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5Mv",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/db/entities/unit.ts",
+      "name": "unit.ts",
+      "qualifier": "FIL",
+      "path": "src/db/entities/unit.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "ncloc", "value": "29" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NS",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/unitRepository.ts",
+      "name": "unitRepository.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/unitRepository.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "ncloc", "value": "26" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NU",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/repository/protocol/unitRepositoryProtocol.ts",
+      "name": "unitRepositoryProtocol.ts",
+      "qualifier": "FIL",
+      "path": "src/repository/protocol/unitRepositoryProtocol.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "6" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5N3",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/useCases",
+      "name": "useCases",
+      "qualifier": "DIR",
+      "path": "src/useCases",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "2.9",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "27" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "7" },
+        { "metric": "complexity", "value": "55" },
+        { "metric": "ncloc", "value": "414" },
+        { "metric": "coverage", "value": "12.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.2",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    },
+    {
+      "id": "AYMzs6A_LnvfjMlPT5NI",
+      "key": "fga-eps-mds-2022-1-Alectrion-EquipamentApi:src/factories/useCases",
+      "name": "useCases",
+      "qualifier": "DIR",
+      "path": "src/factories/useCases",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "5" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "5" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "41" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ],
+      "pullRequest": "4"
+    }
+  ]
+}
