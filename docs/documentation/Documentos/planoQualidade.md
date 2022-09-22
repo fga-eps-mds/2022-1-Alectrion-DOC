@@ -155,6 +155,7 @@ Existem algumas categorias de manutenção:
 - Mnutenção Preventiva: Melhorar a manutenibilidade ou confiabilidade do produto   
 - Manutenção Perfectiva: realizar as modificações solicitadas pelo usuário e efetuar melhorias gerais
 
+Para realizar analíse das métricas através das coletas obtidas pelo sonar utilizamos [notebook](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/main/analytics.ipynb) em python disponizado pelo professor. 
 # 10. Referências Bibliográficas
 
 > [1] NBR - ISO/IEC 9126-1 - Software engineering - Product quality - Part 1: Quality model. Disponivel em: https://jkolb.com.br/wp-content/uploads/2014/02/NBR-ISO_IEC-9126-1.pdf
@@ -172,3 +173,4 @@ Existem algumas categorias de manutenção:
 |23/08/2022|Criação do documento| Guilherme|
 |30/08/2022|Revisão do documento| Moacir e Guilherme|
 |30/08/2022|Incremento do documento| Moacir, Guilherme, Lucas Alexandre, João Pedro Soares e Matheus|
+|21/09/2022| Atualizado tópico 9 | Lucas Alexandre e Matheus Estanislau|
