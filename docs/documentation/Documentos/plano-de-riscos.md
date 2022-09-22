@@ -80,6 +80,7 @@ O processo de identificação de riscos se utilizou de identificação de riscos
 |R15|Pareamentos não efetivos|Gerência|Definição de pareamentos de acordo com conhecimento da equipe|Redefinição de pareamentos|
 |R16|Projeto não atender às expectativas do cliente|Gerência e Externo|Acompanhamento do projeto constante|Redefinição de escopo|
 |R17|Fácil adaptação a tecnologia|Técnico|Estudos e treinamentos|Adição de funcionalidades ao escopo|
+|R18| Não cumprimento dos padrões de qualidade| Técnico  | Monitoramento dos indíces de qualidade | Implementar melhorias que atendam os padrões de qualidade |
 
 ## 6. Burndown de Riscos
 
@@ -101,3 +102,4 @@ Para o burndown de riscos, adotamos uma planilha compartilhada para servir como 
 |--------|-------------|-------------|
 |19/07/2022|Criação do documento| Guilherme, João Pedro Soares|
 |19/07/2022|Adição da planilha de riscos| Guilherme, João Pedro Soares|
+|18/09/2022|Adição de novo risco| Lucas Alexandre e Matheus Estanislau|
