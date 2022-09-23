@@ -25,7 +25,7 @@ Objetivo da sprint: terminar funcionalidades do usuário, autenticação na apli
 |Tarefas|
 |--------|
 |[Protótipo de Alta fidelidade](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/123) -  João Soares, Lucas|
-|[Deploy Microserviço de equipamentos](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/129) -  Moacir|
+|[Deploy Microsserviços de equipamentos](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/129) -  Moacir|
 |[Plano de Qualidade](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/125) - Guilherme|
 |[US02](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/61) - João|
 |[US03](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/64) -  Moacir|

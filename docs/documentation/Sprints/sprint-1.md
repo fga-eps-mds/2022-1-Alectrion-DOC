@@ -32,13 +32,14 @@ nav_order: 2
 |Canvas MVP| 
 |Identidade visual| 
 |Protótipo de alta fidelidade|
-|Ajustar documento de arquitetura| 
+|Ajustar documento de arquitetura|
 |issue [#88](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/88)| 
 |issue [#89](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/89)| 
 |issue [#90](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/90)| 
 |issue [#91](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/91)| 
 |issue [#92](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/92)| 
 |issue [#93](https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/issues/93)|
+
 ## 3. Quadro de conhecimento antes do início da Semana
 
 <br>

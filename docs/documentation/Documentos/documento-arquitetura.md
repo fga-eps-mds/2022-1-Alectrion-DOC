@@ -20,11 +20,11 @@ O Documento de Arquitetura de Software, trata-se de uma visão geral de toda a a
 
 ## 2. Representação arquitetural
 
-### 2.1 Microserviços
+### 2.1 Microsserviçoss
 
-Microserviço consiste em uma abordagem arquitetural a qual uma aplicação é compostas por serviçoes menores, que são impĺementados de forma idependente com acoplamento fraco. Esses serviçoes idependentes podemamlmente se comunicam entre usando API e são organizados por recurso de negócios. 
+Microsserviços consiste em uma abordagem arquitetural a qual uma aplicação é compostas por serviçoes menores, que são impĺementados de forma idependente com acoplamento fraco. Esses serviçoes idependentes podemamlmente se comunicam entre usando API e são organizados por recurso de negócios. 
 
-A arquitetura de microserviço acelera o desenvolvimento e tambem facilita a escalabilidade de uma aplicação. Este padrão arquitetural é utilizado na aplicação.
+A arquitetura de Microsserviços acelera o desenvolvimento e tambem facilita a escalabilidade de uma aplicação. Este padrão arquitetural é utilizado na aplicação.
 ### 2.2 React
 
 React é uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário (UI). O react será utilizado para a criação do frontend, na interação com o usuário.
@@ -43,11 +43,11 @@ Sistema gerenciador de banco de dados relacional, de código aberto que será ut
 
 Frontend - Responsável pela interface visual do projeto, com o objetivo de prover as interações com os usuários.
 
-Microserviço Gateway - Será responsável por ser o único ponto de entrada do usuário com os demais serviços do projeto, provendo autenticação e autorização.
+Microsserviços Gateway - Será responsável por ser o único ponto de entrada do usuário com os demais serviços do projeto, provendo autenticação e autorização.
 
-Microserviço Usuário - Microserviço responsável pelo gerenciamento de usuários da aplicação 
+Microsserviços Usuário - Microsserviços responsável pelo gerenciamento de usuários da aplicação 
 
-Microserviço Equipamento -  Microserviço responsável pelo gerenciamento dos equipamentos da aplicação 
+Microsserviços Equipamento -  Microsserviços responsável pelo gerenciamento dos equipamentos da aplicação 
 
 Banco de Dados Usuário - Responsável por armazenar os dados dos usuários.
 
@@ -66,10 +66,10 @@ Banco de Dados Equipamentos - Responsável por armazenar os dados dos equipament
 
 ![diagrama de implantação](../assets/diagrama-de-implantacao.png)
 
-### 3.3 Microserviço de usuário
+### 3.3 Microsserviços de usuário
 
 ![diagrama de classes usuário](../assets/diagrama-classes-usuario.png)
-### 3.3 Microserviço de equipamentos
+### 3.3 Microsserviços de equipamentos
 
 ![diagrama de classes equipamento](../assets/diagrama-classes-equipamentos.png)
 
@@ -80,7 +80,7 @@ Banco de Dados Equipamentos - Responsável por armazenar os dados dos equipament
 
 ## 5. Referências Bibliográficas
 
-> [1] Microserviço. Disponivel em: https://www.ibm.com/br-pt/cloud/learn/microservices
+> [1] Microsserviços. Disponivel em: https://www.ibm.com/br-pt/cloud/learn/microservices
 
 > [2] React. Disponivel em: https://pt-br.reactjs.org/
 

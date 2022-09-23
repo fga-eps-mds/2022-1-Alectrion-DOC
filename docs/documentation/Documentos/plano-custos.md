@@ -100,7 +100,7 @@ De acordo com [neoenergiabrasilia](https://www.neoenergiabrasilia.com.br/residen
 
 
 ## Custo total Projeto
-O custo total do projeto, levando em consideração os pontos descritos a cima, apresentado abaixo com margem de 10% e estimado em R$ 108.635,2(± 10.863,52), os cálculos podem ser vistos na planilha:
+O custo total do projeto, levando em consideração os pontos descritos a cima, apresentado abaixo com margem de 10% e estimado em R$ 109.163,45(± 10.863,52), os cálculos podem ser vistos na planilha:
 
 [Plano de Custos](https://docs.google.com/spreadsheets/d/1GpBh9sL4wy0KlOb_R2ydSjVwxI1n9eXRnERpj0aF1nw/edit?usp=sharing)
 
